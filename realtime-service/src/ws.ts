@@ -87,6 +87,79 @@ function hashIp(ip: string): string {
   return crypto.createHash('sha256').update(`${IP_SALT}:${ip}`).digest('hex').slice(0, 16);
 }
 
+// ─── Save wish to DB and broadcast to all WS clients (single code path) ───
+
+export interface WishInput {
+  name: string;
+  department?: string;
+  message: string;
+  clientId?: string;
+  ipHash?: string;
+}
+
+export interface WishResult {
+  id: string;
+  seq: number;
+  name: string;
+  department: string | null;
+  message: string;
+  createdAt: string;
+}
+
+export function saveAndBroadcastWish(input: WishInput): WishResult | null {
+  const cleanName = input.name.toString().replace(/<[^>]*>/g, '').trim().slice(0, 100);
+  const cleanDept = input.department ? input.department.toString().replace(/<[^>]*>/g, '').trim().slice(0, 100) : null;
+  let cleanMsg = input.message.toString().replace(/<[^>]*>/g, '').trim();
+
+  const encoder = new TextEncoder();
+  const byteLen = encoder.encode(cleanMsg).length;
+  if (byteLen > 720) {
+    cleanMsg = new TextDecoder().decode(encoder.encode(cleanMsg).slice(0, 720));
+  }
+
+  if (containsProfanity(cleanMsg) || containsProfanity(cleanName)) return null;
+  if (!cleanMsg) return null;
+
+  const seq = nextSeq();
+  const clientId = input.clientId || crypto.randomUUID();
+  const doc: WishDocument = {
+    _id: new ObjectId(),
+    seq,
+    clientId,
+    name: cleanName,
+    department: cleanDept,
+    message: cleanMsg,
+    status: 'visible',
+    createdAt: new Date(),
+    ipHash: input.ipHash || 'rest',
+  };
+
+  // Idempotency: skip if clientId already in buffer
+  if (hasClientId(doc.clientId)) return null;
+
+  addToBuffer(doc);
+  enqueueWrite(doc);
+
+  const broadcast = {
+    seq,
+    name: doc.name,
+    department: doc.department,
+    message: doc.message,
+    createdAt: doc.createdAt.toISOString(),
+    lane: 0,
+  };
+  broadcastMessage(broadcast);
+
+  return {
+    id: String(doc._id),
+    seq,
+    name: doc.name,
+    department: doc.department,
+    message: doc.message,
+    createdAt: doc.createdAt.toISOString(),
+  };
+}
+
 // ─── Process incoming message from WS client ───
 
 export function processWsMessage(data: string, ip: string): any | null {
@@ -97,45 +170,13 @@ export function processWsMessage(data: string, ip: string): any | null {
   const { name = '', department = '', message = '', clientId = '' } = parsed.payload || {};
   if (!message || typeof message !== 'string') return null;
 
-  const cleanName = name.toString().replace(/<[^>]*>/g, '').trim().slice(0, 100);
-  const cleanDept = department ? department.toString().replace(/<[^>]*>/g, '').trim().slice(0, 100) : null;
-  let cleanMsg = message.toString().replace(/<[^>]*>/g, '').trim();
-
-  const encoder = new TextEncoder();
-  const byteLen = encoder.encode(cleanMsg).length;
-  if (byteLen > 720) {
-    cleanMsg = new TextDecoder().decode(encoder.encode(cleanMsg).slice(0, 720));
-  }
-
-  if (containsProfanity(cleanMsg) || containsProfanity(cleanName)) return null;
-
-  const seq = nextSeq();
-  const doc: WishDocument = {
-    _id: new ObjectId(),
-    seq,
-    clientId: clientId || crypto.randomUUID(),
-    name: cleanName,
-    department: cleanDept,
-    message: cleanMsg,
-    status: 'visible',
-    createdAt: new Date(),
+  return saveAndBroadcastWish({
+    name: name.toString(),
+    department: department ? department.toString() : undefined,
+    message: message.toString(),
+    clientId: clientId || undefined,
     ipHash: hashIp(ip),
-  };
-
-  // Idempotency: skip if clientId already in buffer
-  if (hasClientId(doc.clientId)) return null;
-
-  addToBuffer(doc);
-  enqueueWrite(doc);
-
-  return {
-    seq,
-    name: doc.name,
-    department: doc.department,
-    message: doc.message,
-    createdAt: doc.createdAt.toISOString(),
-    lane: 0,
-  };
+  });
 }
 
 // ─── Attach WS server ───
@@ -179,8 +220,7 @@ export function attachWs(server: Server): WebSocketServer {
         if (msg.type === 'message') {
           if (!isLiveEnabled()) return;
           const ip = (req.headers['x-forwarded-for'] as string)?.split(',')[0]?.trim() || req.socket.remoteAddress || 'unknown';
-          const broadcast = processWsMessage(data.toString(), ip);
-          if (broadcast) broadcastMessage(broadcast);
+          processWsMessage(data.toString(), ip);
         }
       } catch {}
     });

@@ -1,17 +1,13 @@
 import 'dotenv/config';
-import crypto from 'crypto';
-import { ObjectId } from 'mongodb';
 import Fastify from 'fastify';
 import cors from '@fastify/cors';
-import { attachWs, startBroadcastLoop, broadcastMessage, getClients } from './ws.js';
+import { attachWs, getClients, saveAndBroadcastWish } from './ws.js';
 import {
   getHistory, healthcheck, close as closeDb, startFlushLoop,
-  isLiveEnabled, nextSeq, addToBuffer, enqueueWrite, hasClientId,
+  isLiveEnabled,
   getDbCount, getHistoryFromDb,
 } from './db.js';
-import type { WishDocument } from './db.js';
 import { setupAdminRoutes } from './admin.js';
-import { containsProfanity } from './profanity.js';
 
 const PORT = parseInt(process.env.PORT || '3001', 10);
 const ALLOWED_ORIGIN_RAW = process.env.ALLOWED_ORIGIN || '*';
@@ -30,10 +26,6 @@ function checkRateLimit(ip: string): boolean {
   }
   entry.count++;
   return entry.count <= 3;
-}
-
-function stripHtml(str: string): string {
-  return str.replace(/<[^>]*>/g, '');
 }
 
 // ─── Fastify ───
@@ -91,66 +83,26 @@ app.post('/api/messages', async (req, reply) => {
     return reply.code(429).send({ error: 'Rate limit. Max 3 messages per minute.' });
   }
 
-  let { name = '', department = '', message = '', website = '' } = (req.body as any) || {};
+  const { name = '', department = '', message = '', website = '' } = (req.body as any) || {};
 
   if (website) return reply.send({ success: true });
 
-  name = stripHtml(name).trim().slice(0, 100);
-  department = stripHtml(department).trim().slice(0, 100);
-  message = stripHtml(message).trim();
-
-  if (!message) return reply.code(400).send({ error: 'Message is required' });
-
-  const encoder = new TextEncoder();
-  const byteLen = encoder.encode(message).length;
-  if (byteLen > 720) {
-    message = new TextDecoder().decode(encoder.encode(message).slice(0, 720));
+  if (!message || !message.trim()) {
+    return reply.code(400).send({ error: 'Message is required' });
   }
 
-  if (containsProfanity(message) || containsProfanity(name)) {
+  const result = saveAndBroadcastWish({
+    name,
+    department: department || undefined,
+    message,
+    ipHash: 'rest',
+  });
+
+  if (!result) {
     return reply.code(400).send({ error: 'Message contains inappropriate content' });
   }
 
-  const clientId = crypto.randomUUID();
-  const seq = nextSeq();
-  const doc: WishDocument = {
-    _id: new ObjectId(),
-    seq,
-    clientId,
-    name,
-    department: department || null,
-    message,
-    status: 'visible',
-    createdAt: new Date(),
-    ipHash: 'rest',
-  };
-
-  // Idempotency: skip if clientId already in buffer
-  if (hasClientId(clientId)) {
-    return reply.send({ success: true });
-  }
-
-  addToBuffer(doc);
-  enqueueWrite(doc);
-
-  const broadcast = {
-    seq,
-    name: doc.name,
-    department: doc.department,
-    message: doc.message,
-    createdAt: doc.createdAt.toISOString(),
-    lane: 0,
-  };
-  broadcastMessage(broadcast);
-
-  return reply.send({
-    id: String(doc._id),
-    seq,
-    name: doc.name,
-    department: doc.department,
-    message: doc.message,
-    createdAt: doc.createdAt.toISOString(),
-  });
+  return reply.send(result);
 });
 
 setupAdminRoutes(app);
