@@ -165,7 +165,7 @@ let keepalive: ReturnType<typeof setInterval> | null = null;
 export async function registerWsRoute(app: FastifyInstance): Promise<void> {
   await app.register(import('@fastify/websocket'));
 
-  app.get('/ws', { websocket: true }, (socket: WebSocket, req) => {
+  app.get('/', { websocket: true }, (socket: WebSocket, req) => {
     const lane = getLane();
     (socket as any)._lane = lane;
     if (lane >= 0) lanes[lane] = socket;
@@ -224,5 +224,5 @@ export async function registerWsRoute(app: FastifyInstance): Promise<void> {
     });
   }, 30000);
 
-  console.log('WebSocket route registered at /ws');
+  console.log('WebSocket route registered at /');
 }

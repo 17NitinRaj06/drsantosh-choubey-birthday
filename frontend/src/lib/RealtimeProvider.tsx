@@ -75,7 +75,7 @@ export default function RealtimeProvider({ children }: { children: React.ReactNo
     setStatus((prev) => (prev === "idle" || prev === "empty" ? "connecting" : prev === "ready" ? "ready" : "connecting"));
 
     try {
-      const ws = new WebSocket(`${WS_URL}/ws`);
+      const ws = new WebSocket(WS_URL);
 
       ws.onopen = () => {
         if (!mountedRef.current) return;
