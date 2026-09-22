@@ -208,6 +208,10 @@ export const chapters: Chapter[] = [
     color: "night",
     tags: ["70+ Works", "Awards", "Poetry"],
     text: "Over 70 literary works spanning novels, poetry, science writing, and cultural criticism. Recipient of the Bharat Gaurav Award (Paris), International Max Muller Award, Madhya Pradesh Ratna, Schwab Foundation Award, and lifetime achievement honors from MANIT, CSIR-AMPRI, and the Prafulla Chandra Ray Foundation. His novels — Jaltarang, Moscow Diary, Sapno ki Duniya mein Black Hole — have won multiple national and international literary awards.",
+    image: "/images/gallery-1.webp",
+    imageAlt: "Santosh Choubey",
+    imageCaption: "Photographs: santoshchoubey.com",
+    imagePosition: "right",
     pullQuote: "आना जब मेरे अच्छे दिन हों. जब दिल में निष्कपट ज्योति की तरह जलती हो तुम्हारी क्षीण याद.",
   },
 ];
