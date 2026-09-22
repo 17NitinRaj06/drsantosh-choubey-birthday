@@ -3,14 +3,14 @@
 export default function Cover() {
   return (
     <section
-      className="chapter-paper relative min-h-screen flex flex-col justify-end overflow-hidden"
+      className="hero-section chapter-paper relative min-h-screen flex flex-col justify-end overflow-hidden"
       data-chapter="cover"
     >
       {/* Top: Language hint area — LanguageToggle is fixed top-left */}
 
       {/* Background portrait — grayscale, right-aligned, bleeding to edge */}
-      <div className="absolute inset-0 z-0 overflow-hidden">
-        <div className="absolute right-4 top-5 w-[55%] h-full md:w-[42%] md:h-full photo-print">
+      <div className="hero-image-wrap absolute inset-0 z-0 overflow-hidden">
+        <div className="absolute right-0 top-4 w-[48%] h-[60vh] sm:w-[50%] sm:h-[65vh] md:right-4 md:top-5 md:w-[42%] md:h-full photo-print">
           <img
             src="/images/hero-portrait.webp"
             alt="Santosh Choubey"
@@ -51,7 +51,7 @@ export default function Cover() {
       </div>
 
       {/* Content — bottom-left anchored */}
-      <div className="relative z-10 px-6 md:px-12 lg:px-20 pb-16 md:pb-24 max-w-[600px]">
+      <div className="hero-content relative z-10 px-6 md:px-12 lg:px-20 pb-16 md:pb-24 max-w-[600px]">
         {/* Small caps header */}
         <p
           className="font-body uppercase tracking-[0.25em] mb-4"
