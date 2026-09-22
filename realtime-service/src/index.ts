@@ -20,12 +20,12 @@ const rateLimits = new Map<string, { windowStart: number; count: number }>();
 function checkRateLimit(ip: string): boolean {
   const now = Date.now();
   const entry = rateLimits.get(ip);
-  if (!entry || now - entry.windowStart > 60000) {
+  if (!entry || now - entry.windowStart > 30000) {
     rateLimits.set(ip, { windowStart: now, count: 1 });
     return true;
   }
   entry.count++;
-  return entry.count <= 3;
+  return entry.count <= 1;
 }
 
 // ─── Fastify ───
@@ -80,7 +80,7 @@ app.post('/api/messages', async (req, reply) => {
 
   const ip = req.ip;
   if (!checkRateLimit(ip)) {
-    return reply.code(429).send({ error: 'Rate limit. Max 3 messages per minute.' });
+    return reply.code(429).send({ error: 'Please wait 30 seconds before sending another wish.' });
   }
 
   const { name = '', department = '', message = '', website = '' } = (req.body as any) || {};
