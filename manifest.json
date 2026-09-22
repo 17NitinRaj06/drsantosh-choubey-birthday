@@ -1,0 +1,6165 @@
+{
+  "/images/logo.png": {
+    "url": "https://santoshchoubey.com/images/logo.png",
+    "pages": [
+      "/",
+      "/profile",
+      "/journey",
+      "/social-entrepreneur",
+      "/educationist",
+      "/science-communicator",
+      "/educational-institutions",
+      "/literary-profile",
+      "/poet",
+      "/writer",
+      "/theatre",
+      "/cultural-institutions",
+      "/vishwarang-foundation",
+      "/books",
+      "/professional-awards",
+      "/literature-award",
+      "/photogallery",
+      "/news",
+      "/video",
+      "/words-of-appreciation"
+    ],
+    "alt": "Santosh Choubey"
+  },
+  "/images/about-img.webp": {
+    "url": "https://santoshchoubey.com/images/about-img.webp",
+    "pages": [
+      "/"
+    ],
+    "alt": "Santosh Choubey"
+  },
+  "/images/title-bottom.svg": {
+    "url": "https://santoshchoubey.com/images/title-bottom.svg",
+    "pages": [
+      "/",
+      "/profile",
+      "/journey",
+      "/social-entrepreneur",
+      "/educationist",
+      "/science-communicator",
+      "/literary-profile",
+      "/poet",
+      "/writer",
+      "/theatre",
+      "/vishwarang-foundation"
+    ],
+    "alt": "Title"
+  },
+  "/images/about-shape4.png": {
+    "url": "https://santoshchoubey.com/images/about-shape4.png",
+    "pages": [
+      "/",
+      "/profile"
+    ],
+    "alt": ""
+  },
+  "/images/about-shape-2.svg": {
+    "url": "https://santoshchoubey.com/images/about-shape-2.svg",
+    "pages": [
+      "/",
+      "/profile",
+      "/science-communicator"
+    ],
+    "alt": "Shape"
+  },
+  "/images/architect-icon.png": {
+    "url": "https://santoshchoubey.com/images/architect-icon.png",
+    "pages": [
+      "/"
+    ],
+    "alt": "Architect"
+  },
+  "/images/architect-icon2.png": {
+    "url": "https://santoshchoubey.com/images/architect-icon2.png",
+    "pages": [
+      "/"
+    ],
+    "alt": "Architect"
+  },
+  "/images/architect-icon3.png": {
+    "url": "https://santoshchoubey.com/images/architect-icon3.png",
+    "pages": [
+      "/"
+    ],
+    "alt": "Architect"
+  },
+  "/images/architect-icon4.png": {
+    "url": "https://santoshchoubey.com/images/architect-icon4.png",
+    "pages": [
+      "/"
+    ],
+    "alt": "Architect"
+  },
+  "/images/line-orange.svg": {
+    "url": "https://santoshchoubey.com/images/line-orange.svg",
+    "pages": [
+      "/"
+    ],
+    "alt": ""
+  },
+  "/images/awards/professional/national-2006.webp": {
+    "url": "https://santoshchoubey.com/images/awards/professional/national-2006.webp",
+    "pages": [
+      "/",
+      "/professional-awards"
+    ],
+    "alt": "NASSCOM I.T. Innovation Award"
+  },
+  "/images/awards/professional/indian-innvoation-award.webp": {
+    "url": "https://santoshchoubey.com/images/awards/professional/indian-innvoation-award.webp",
+    "pages": [
+      "/",
+      "/professional-awards"
+    ],
+    "alt": "Indian Innovation Award"
+  },
+  "/images/awards/professional/awards2009-11.webp": {
+    "url": "https://santoshchoubey.com/images/awards/professional/awards2009-11.webp",
+    "pages": [
+      "/",
+      "/professional-awards"
+    ],
+    "alt": "Meghnad Saha Award"
+  },
+  "/images/awards/literature/international-summit-2023.webp": {
+    "url": "https://santoshchoubey.com/images/awards/literature/international-summit-2023.webp",
+    "pages": [
+      "/",
+      "/literature-award"
+    ],
+    "alt": ""
+  },
+  "/images/network-map.webp": {
+    "url": "https://santoshchoubey.com/images/network-map.webp",
+    "pages": [
+      "/",
+      "/profile"
+    ],
+    "alt": "book"
+  },
+  "/images/tagore.webp": {
+    "url": "https://santoshchoubey.com/images/tagore.webp",
+    "pages": [
+      "/",
+      "/educationist"
+    ],
+    "alt": "Rabindranath Tagory University"
+  },
+  "/images/aisect-university.webp": {
+    "url": "https://santoshchoubey.com/images/aisect-university.webp",
+    "pages": [
+      "/",
+      "/educationist"
+    ],
+    "alt": "Aisect University"
+  },
+  "/images/raman2.webp": {
+    "url": "https://santoshchoubey.com/images/raman2.webp",
+    "pages": [
+      "/",
+      "/educationist"
+    ],
+    "alt": "DR. CV. Ramana University Bihar, Vaishali"
+  },
+  "/images/raman2-1.webp": {
+    "url": "https://santoshchoubey.com/images/raman2-1.webp",
+    "pages": [
+      "/",
+      "/educationist"
+    ],
+    "alt": "DR. CV. Ramana University Madhya Pradesh, Khandwa"
+  },
+  "/images/scope.webp": {
+    "url": "https://santoshchoubey.com/images/scope.webp",
+    "pages": [
+      "/",
+      "/educationist"
+    ],
+    "alt": "Scope Global Skill University"
+  },
+  "/images/scope-public-school.webp": {
+    "url": "https://santoshchoubey.com/images/scope-public-school.webp",
+    "pages": [
+      "/",
+      "/educationist"
+    ],
+    "alt": "Scope Public School"
+  },
+  "/images/cvru-cg.webp": {
+    "url": "https://santoshchoubey.com/images/cvru-cg.webp",
+    "pages": [
+      "/",
+      "/educationist"
+    ],
+    "alt": "CVRU CG"
+  },
+  "/images/aic-rntu.webp": {
+    "url": "https://santoshchoubey.com/images/aic-rntu.webp",
+    "pages": [
+      "/",
+      "/educationist"
+    ],
+    "alt": "AIC RNTU"
+  },
+  "/images/vanmali-srijan-peet.webp": {
+    "url": "https://santoshchoubey.com/images/vanmali-srijan-peet.webp",
+    "pages": [
+      "/"
+    ],
+    "alt": "Vanmali"
+  },
+  "/images/drama.webp": {
+    "url": "https://santoshchoubey.com/images/drama.webp",
+    "pages": [
+      "/"
+    ],
+    "alt": "Tagore National School of Drama"
+  },
+  "/images/foundation.webp": {
+    "url": "https://santoshchoubey.com/images/foundation.webp",
+    "pages": [
+      "/"
+    ],
+    "alt": "Vishwarang Foundation"
+  },
+  "/images/publication.webp": {
+    "url": "https://santoshchoubey.com/images/publication.webp",
+    "pages": [
+      "/"
+    ],
+    "alt": "book"
+  },
+  "/images/vishwarang.webp": {
+    "url": "https://santoshchoubey.com/images/vishwarang.webp",
+    "pages": [
+      "/",
+      "/profile",
+      "/educationist"
+    ],
+    "alt": "book"
+  },
+  "/images/photogellery/photogellery1/photogellery1.webp": {
+    "url": "https://santoshchoubey.com/images/photogellery/photogellery1/photogellery1.webp",
+    "pages": [
+      "/"
+    ],
+    "alt": ""
+  },
+  "/images/photogellery/photogellery1/photogellery2.webp": {
+    "url": "https://santoshchoubey.com/images/photogellery/photogellery1/photogellery2.webp",
+    "pages": [
+      "/"
+    ],
+    "alt": ""
+  },
+  "/images/photogellery/photogellery1/photogellery3.webp": {
+    "url": "https://santoshchoubey.com/images/photogellery/photogellery1/photogellery3.webp",
+    "pages": [
+      "/"
+    ],
+    "alt": ""
+  },
+  "/images/photogellery/photogellery1/photogellery4.webp": {
+    "url": "https://santoshchoubey.com/images/photogellery/photogellery1/photogellery4.webp",
+    "pages": [
+      "/"
+    ],
+    "alt": ""
+  },
+  "/images/photogellery/photogellery1/photogellery5.webp": {
+    "url": "https://santoshchoubey.com/images/photogellery/photogellery1/photogellery5.webp",
+    "pages": [
+      "/"
+    ],
+    "alt": ""
+  },
+  "/images/photogellery/photogellery1/photogellery6.webp": {
+    "url": "https://santoshchoubey.com/images/photogellery/photogellery1/photogellery6.webp",
+    "pages": [
+      "/"
+    ],
+    "alt": ""
+  },
+  "/images/news/vishwarang-poster.webp": {
+    "url": "https://santoshchoubey.com/images/news/vishwarang-poster.webp",
+    "pages": [
+      "/",
+      "/news"
+    ],
+    "alt": "विश्व रंग अंतरराष्ट्रीय हिंदी ओलंपियाड 2025 का पोस्टर लोकार्पण"
+  },
+  "/images/cliping/2025/33.webp": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/33.webp",
+    "pages": [
+      "/",
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/34.webp": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/34.webp",
+    "pages": [
+      "/",
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/35.webp": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/35.webp",
+    "pages": [
+      "/",
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/36.webp": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/36.webp",
+    "pages": [
+      "/",
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/37.webp": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/37.webp",
+    "pages": [
+      "/",
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/38.webp": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/38.webp",
+    "pages": [
+      "/",
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/39.webp": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/39.webp",
+    "pages": [
+      "/",
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/video/santosh-sir.webp": {
+    "url": "https://santoshchoubey.com/images/video/santosh-sir.webp",
+    "pages": [
+      "/",
+      "/video"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/video/1.webp": {
+    "url": "https://santoshchoubey.com/images/video/1.webp",
+    "pages": [
+      "/",
+      "/video",
+      "/words-of-appreciation"
+    ],
+    "alt": "Meghnad Saha Award"
+  },
+  "/images/video/2.webp": {
+    "url": "https://santoshchoubey.com/images/video/2.webp",
+    "pages": [
+      "/",
+      "/video",
+      "/words-of-appreciation"
+    ],
+    "alt": "DR. CV. Ramana University Bihar, Vaishali"
+  },
+  "/images/video/the-indian.webp": {
+    "url": "https://santoshchoubey.com/images/video/the-indian.webp",
+    "pages": [
+      "/",
+      "/video",
+      "/words-of-appreciation"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/video/shubhkamna.webp": {
+    "url": "https://santoshchoubey.com/images/video/shubhkamna.webp",
+    "pages": [
+      "/",
+      "/video",
+      "/words-of-appreciation"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/video/5.webp": {
+    "url": "https://santoshchoubey.com/images/video/5.webp",
+    "pages": [
+      "/",
+      "/video"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/video/21.webp": {
+    "url": "https://santoshchoubey.com/images/video/21.webp",
+    "pages": [
+      "/",
+      "/video"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/video/22.webp": {
+    "url": "https://santoshchoubey.com/images/video/22.webp",
+    "pages": [
+      "/",
+      "/video"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/photo-gallery/ghareeb-nawaz-2026/day1/1.webp": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/ghareeb-nawaz-2026/day1/1.webp",
+    "pages": [
+      "/",
+      "/photogallery",
+      "/news"
+    ],
+    "alt": "Meghnad Saha Award"
+  },
+  "/images/photo-gallery/swadhinata/1.webp": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/swadhinata/1.webp",
+    "pages": [
+      "/",
+      "/photogallery",
+      "/news"
+    ],
+    "alt": "Meghnad Saha Award"
+  },
+  "/images/news/poster-2026.webp": {
+    "url": "https://santoshchoubey.com/images/news/poster-2026.webp",
+    "pages": [
+      "/",
+      "/news"
+    ],
+    "alt": "विश्वरंग अंतरराष्ट्रीय हिंदी ओलंपियाड 2026 | पोस्टर लोकार्पण समारोह"
+  },
+  "/images/about-img1.webp": {
+    "url": "https://santoshchoubey.com/images/about-img1.webp",
+    "pages": [
+      "/profile"
+    ],
+    "alt": "Santosh Choubey"
+  },
+  "/images/national.png": {
+    "url": "https://santoshchoubey.com/images/national.png",
+    "pages": [
+      "/profile"
+    ],
+    "alt": "National"
+  },
+  "/images/core1.webp": {
+    "url": "https://santoshchoubey.com/images/core1.webp",
+    "pages": [
+      "/profile"
+    ],
+    "alt": "Santosh Choubey"
+  },
+  "/images/inner-banner.webp": {
+    "url": "https://santoshchoubey.com/images/inner-banner.webp",
+    "pages": [
+      "/profile",
+      "/journey",
+      "/social-entrepreneur",
+      "/educationist",
+      "/science-communicator",
+      "/educational-institutions",
+      "/literary-profile",
+      "/poet",
+      "/writer",
+      "/theatre",
+      "/cultural-institutions",
+      "/vishwarang-foundation",
+      "/books",
+      "/professional-awards",
+      "/literature-award",
+      "/photogallery",
+      "/news",
+      "/video",
+      "/words-of-appreciation"
+    ],
+    "alt": ""
+  },
+  "/images/thm-shape1.png": {
+    "url": "https://santoshchoubey.com/images/thm-shape1.png",
+    "pages": [
+      "/journey",
+      "/educational-institutions",
+      "/cultural-institutions"
+    ],
+    "alt": "#"
+  },
+  "/images/mauritius.webp": {
+    "url": "https://santoshchoubey.com/images/mauritius.webp",
+    "pages": [
+      "/journey"
+    ],
+    "alt": "Vishwarang 1st International Edition in Mauritius"
+  },
+  "/images/national1.webp": {
+    "url": "https://santoshchoubey.com/images/national1.webp",
+    "pages": [
+      "/journey",
+      "/educational-institutions"
+    ],
+    "alt": "National Centre for Skill Development and Entrepreneurship, Bhopal"
+  },
+  "/images/rntu.webp": {
+    "url": "https://santoshchoubey.com/images/rntu.webp",
+    "pages": [
+      "/journey",
+      "/cultural-institutions"
+    ],
+    "alt": "Tagore International Hindi Centre, Bhopal, M.P"
+  },
+  "/images/scope-6.webp": {
+    "url": "https://santoshchoubey.com/images/scope-6.webp",
+    "pages": [
+      "/journey",
+      "/educational-institutions"
+    ],
+    "alt": "SCOPE Global Skills University, Bhopal, M.P"
+  },
+  "/images/drama-1.webp": {
+    "url": "https://santoshchoubey.com/images/drama-1.webp",
+    "pages": [
+      "/journey",
+      "/cultural-institutions"
+    ],
+    "alt": "Tagore National School of Drama, Bhopal, M.P."
+  },
+  "/images/history2.webp": {
+    "url": "https://santoshchoubey.com/images/history2.webp",
+    "pages": [
+      "/journey",
+      "/cultural-institutions"
+    ],
+    "alt": "Vishwarang Foundation, Bhopal, M.P."
+  },
+  "/images/2018.webp": {
+    "url": "https://santoshchoubey.com/images/2018.webp",
+    "pages": [
+      "/journey",
+      "/cultural-institutions"
+    ],
+    "alt": "Tagore International Centre for Arts and Culture, Bhopal"
+  },
+  "/images/raman-5.webp": {
+    "url": "https://santoshchoubey.com/images/raman-5.webp",
+    "pages": [
+      "/journey",
+      "/educational-institutions"
+    ],
+    "alt": "Dr. C.V. Raman University, Khandwa, M.P."
+  },
+  "/images/raman-4.webp": {
+    "url": "https://santoshchoubey.com/images/raman-4.webp",
+    "pages": [
+      "/journey",
+      "/educational-institutions"
+    ],
+    "alt": "Dr. C.V. Raman University, Vaishali, Bihar"
+  },
+  "/images/building3.webp": {
+    "url": "https://santoshchoubey.com/images/building3.webp",
+    "pages": [
+      "/journey",
+      "/educational-institutions"
+    ],
+    "alt": "AISECT University, Hazaribagh Jharkhand"
+  },
+  "/images/history8.webp": {
+    "url": "https://santoshchoubey.com/images/history8.webp",
+    "pages": [
+      "/journey"
+    ],
+    "alt": "Transforming Banking Services"
+  },
+  "/images/rntu-inogration.webp": {
+    "url": "https://santoshchoubey.com/images/rntu-inogration.webp",
+    "pages": [
+      "/journey",
+      "/educational-institutions"
+    ],
+    "alt": "Rabindranath Tagore University, Raisen, M.P."
+  },
+  "/images/history12.webp": {
+    "url": "https://santoshchoubey.com/images/history12.webp",
+    "pages": [
+      "/journey"
+    ],
+    "alt": "AISECT Set Up Over 5000 IT Kiosks at the Grassroots Level"
+  },
+  "/images/2006.webp": {
+    "url": "https://santoshchoubey.com/images/2006.webp",
+    "pages": [
+      "/journey"
+    ],
+    "alt": "NASSCOM I.T. Innovation Award"
+  },
+  "/images/history13.webp": {
+    "url": "https://santoshchoubey.com/images/history13.webp",
+    "pages": [
+      "/journey"
+    ],
+    "alt": "Dr. C.V. Raman University, Bilaspur, C.G."
+  },
+  "/images/history14.webp": {
+    "url": "https://santoshchoubey.com/images/history14.webp",
+    "pages": [
+      "/journey"
+    ],
+    "alt": "How AISECT Won the Indian Innovation Award from Dr. Kalam"
+  },
+  "/images/it-yatras.webp": {
+    "url": "https://santoshchoubey.com/images/it-yatras.webp",
+    "pages": [
+      "/journey"
+    ],
+    "alt": "IT Yatras"
+  },
+  "/images/history16.webp": {
+    "url": "https://santoshchoubey.com/images/history16.webp",
+    "pages": [
+      "/journey"
+    ],
+    "alt": "Acknowledged by the World Bank and IIMA"
+  },
+  "/images/history18.webp": {
+    "url": "https://santoshchoubey.com/images/history18.webp",
+    "pages": [
+      "/journey"
+    ],
+    "alt": "Honored as the Core Group of Department of Science and Technology, Govt. of India"
+  },
+  "/images/history19.webp": {
+    "url": "https://santoshchoubey.com/images/history19.webp",
+    "pages": [
+      "/journey"
+    ],
+    "alt": "Literacy Campaigns"
+  },
+  "/images/vanmalisrijanpeeth.webp": {
+    "url": "https://santoshchoubey.com/images/vanmalisrijanpeeth.webp",
+    "pages": [
+      "/journey",
+      "/cultural-institutions"
+    ],
+    "alt": "Vanmali Srujanpeeth, Bhopal, M.P"
+  },
+  "/images/history20.webp": {
+    "url": "https://santoshchoubey.com/images/history20.webp",
+    "pages": [
+      "/journey"
+    ],
+    "alt": "Transforming Minds through Education"
+  },
+  "/images/1989.webp": {
+    "url": "https://santoshchoubey.com/images/1989.webp",
+    "pages": [
+      "/journey"
+    ],
+    "alt": "Electroniki"
+  },
+  "/images/history21.webp": {
+    "url": "https://santoshchoubey.com/images/history21.webp",
+    "pages": [
+      "/journey"
+    ],
+    "alt": "A STEP TOWARDS THE PROMOTION OF COMPUTER SKILL"
+  },
+  "/images/history22.webp": {
+    "url": "https://santoshchoubey.com/images/history22.webp",
+    "pages": [
+      "/journey"
+    ],
+    "alt": "All India Society for Electronics and Computer Technology AISECT"
+  },
+  "/images/history27.webp": {
+    "url": "https://santoshchoubey.com/images/history27.webp",
+    "pages": [
+      "/journey"
+    ],
+    "alt": "Research Engineer to Civil Services</"
+  },
+  "/images/history31.webp": {
+    "url": "https://santoshchoubey.com/images/history31.webp",
+    "pages": [
+      "/journey"
+    ],
+    "alt": "Mr. J.P. Chaubey"
+  },
+  "/images/profile-img2.webp": {
+    "url": "https://santoshchoubey.com/images/profile-img2.webp",
+    "pages": [
+      "/social-entrepreneur"
+    ],
+    "alt": "Entrepreneurship Development"
+  },
+  "/images/core.webp": {
+    "url": "https://santoshchoubey.com/images/core.webp",
+    "pages": [
+      "/social-entrepreneur"
+    ],
+    "alt": "Core Objectives and Contributions"
+  },
+  "/images/aisect-reach.webp": {
+    "url": "https://santoshchoubey.com/images/aisect-reach.webp",
+    "pages": [
+      "/social-entrepreneur"
+    ],
+    "alt": "AISECT’s Reach and Impact"
+  },
+  "/images/institutional.webp": {
+    "url": "https://santoshchoubey.com/images/institutional.webp",
+    "pages": [
+      "/social-entrepreneur"
+    ],
+    "alt": "Policy Level Contributions"
+  },
+  "/images/entrepreneurship.webp": {
+    "url": "https://santoshchoubey.com/images/entrepreneurship.webp",
+    "pages": [
+      "/social-entrepreneur"
+    ],
+    "alt": "Entrepreneurship Development"
+  },
+  "/images/awards2009.png": {
+    "url": "https://santoshchoubey.com/images/awards2009.png",
+    "pages": [
+      "/social-entrepreneur",
+      "/science-communicator"
+    ],
+    "alt": "NASSCOM Emerge Award"
+  },
+  "/images/awards2006.png": {
+    "url": "https://santoshchoubey.com/images/awards2006.png",
+    "pages": [
+      "/social-entrepreneur",
+      "/science-communicator"
+    ],
+    "alt": "NASSCOM IT Innovation Award"
+  },
+  "/images/awards2005-1.png": {
+    "url": "https://santoshchoubey.com/images/awards2005-1.png",
+    "pages": [
+      "/social-entrepreneur",
+      "/science-communicator"
+    ],
+    "alt": "Indian Innovation Award"
+  },
+  "/images/achivements-3.png": {
+    "url": "https://santoshchoubey.com/images/achivements-3.png",
+    "pages": [
+      "/social-entrepreneur",
+      "/science-communicator"
+    ],
+    "alt": "SKOCH Renaissance Awards"
+  },
+  "/images/achivements-6.png": {
+    "url": "https://santoshchoubey.com/images/achivements-6.png",
+    "pages": [
+      "/social-entrepreneur"
+    ],
+    "alt": "Social ENTREPRENEUR Of The Year"
+  },
+  "/images/building-shape1.svg": {
+    "url": "https://santoshchoubey.com/images/building-shape1.svg",
+    "pages": [
+      "/educationist",
+      "/science-communicator",
+      "/vishwarang-foundation",
+      "/photogallery",
+      "/video",
+      "/words-of-appreciation"
+    ],
+    "alt": ""
+  },
+  "/images/building-shape2.svg": {
+    "url": "https://santoshchoubey.com/images/building-shape2.svg",
+    "pages": [
+      "/educationist",
+      "/science-communicator",
+      "/vishwarang-foundation",
+      "/photogallery",
+      "/video",
+      "/words-of-appreciation"
+    ],
+    "alt": ""
+  },
+  "/images/literary-works.webp": {
+    "url": "https://santoshchoubey.com/images/literary-works.webp",
+    "pages": [
+      "/educationist"
+    ],
+    "alt": "Industry-Relevant Education"
+  },
+  "/images/research.webp": {
+    "url": "https://santoshchoubey.com/images/research.webp",
+    "pages": [
+      "/educationist"
+    ],
+    "alt": "Research and Innovation Ecosystem"
+  },
+  "/images/science1.webp": {
+    "url": "https://santoshchoubey.com/images/science1.webp",
+    "pages": [
+      "/science-communicator"
+    ],
+    "alt": "Eminent Science Communicator"
+  },
+  "/images/special.webp": {
+    "url": "https://santoshchoubey.com/images/special.webp",
+    "pages": [
+      "/science-communicator"
+    ],
+    "alt": "Special Issue of Electroniki Electroniki Aapke Liye"
+  },
+  "/images/parichay.webp": {
+    "url": "https://santoshchoubey.com/images/parichay.webp",
+    "pages": [
+      "/science-communicator"
+    ],
+    "alt": "Computer Ek Parichay"
+  },
+  "/images/published.webp": {
+    "url": "https://santoshchoubey.com/images/published.webp",
+    "pages": [
+      "/science-communicator"
+    ],
+    "alt": "Published Works Science and Technology"
+  },
+  "/images/vigyankatha2.webp": {
+    "url": "https://santoshchoubey.com/images/vigyankatha2.webp",
+    "pages": [
+      "/science-communicator"
+    ],
+    "alt": "Vigyan Katha Kosh-1"
+  },
+  "/images/vigyanklath1.webp": {
+    "url": "https://santoshchoubey.com/images/vigyanklath1.webp",
+    "pages": [
+      "/science-communicator"
+    ],
+    "alt": "Vigyan Katha Kosh-2"
+  },
+  "/images/vigyankatha5.webp": {
+    "url": "https://santoshchoubey.com/images/vigyankatha5.webp",
+    "pages": [
+      "/science-communicator"
+    ],
+    "alt": "Vigyan Katha Kosh-3"
+  },
+  "/images/vigyankatha3.webp": {
+    "url": "https://santoshchoubey.com/images/vigyankatha3.webp",
+    "pages": [
+      "/science-communicator"
+    ],
+    "alt": "Vigyan Katha Kosh-4"
+  },
+  "/images/vigyakatha6.webp": {
+    "url": "https://santoshchoubey.com/images/vigyakatha6.webp",
+    "pages": [
+      "/science-communicator"
+    ],
+    "alt": "Vigyan Katha Kosh-5"
+  },
+  "/images/vigyankatha4.webp": {
+    "url": "https://santoshchoubey.com/images/vigyankatha4.webp",
+    "pages": [
+      "/science-communicator"
+    ],
+    "alt": "Vigyan Katha Kosh-6"
+  },
+  "/images/awards2009-1.png": {
+    "url": "https://santoshchoubey.com/images/awards2009-1.png",
+    "pages": [
+      "/science-communicator"
+    ],
+    "alt": "Rashtriya Rajbhasha Samman"
+  },
+  "/images/awards2005.png": {
+    "url": "https://santoshchoubey.com/images/awards2005.png",
+    "pages": [
+      "/science-communicator"
+    ],
+    "alt": "National E-Governance Award"
+  },
+  "/images/achivements-5.png": {
+    "url": "https://santoshchoubey.com/images/achivements-5.png",
+    "pages": [
+      "/science-communicator"
+    ],
+    "alt": "Ashoka Senior Fellowship Award"
+  },
+  "/images/electronici/1.jpg": {
+    "url": "https://santoshchoubey.com/images/electronici/1.jpg",
+    "pages": [
+      "/science-communicator"
+    ],
+    "alt": "Electronici aapke liye 50th Edition"
+  },
+  "/images/electronici/2.jpg": {
+    "url": "https://santoshchoubey.com/images/electronici/2.jpg",
+    "pages": [
+      "/science-communicator"
+    ],
+    "alt": "Electronici aapke liye 100th Editio"
+  },
+  "/images/electronici/3.jpg": {
+    "url": "https://santoshchoubey.com/images/electronici/3.jpg",
+    "pages": [
+      "/science-communicator"
+    ],
+    "alt": "Electronici aapke liye 200th Edition"
+  },
+  "/images/electronici/4.jpg": {
+    "url": "https://santoshchoubey.com/images/electronici/4.jpg",
+    "pages": [
+      "/science-communicator"
+    ],
+    "alt": "Electronici aapke liye 250th Edition"
+  },
+  "/images/electronici/5.jpg": {
+    "url": "https://santoshchoubey.com/images/electronici/5.jpg",
+    "pages": [
+      "/science-communicator"
+    ],
+    "alt": "Electronici aapke liye 300th Edition"
+  },
+  "/images/communicator-gallery/1.jpg": {
+    "url": "https://santoshchoubey.com/images/communicator-gallery/1.jpg",
+    "pages": [
+      "/science-communicator"
+    ],
+    "alt": "Electronici aapke liye 50th Edition"
+  },
+  "/images/communicator-gallery/2.jpg": {
+    "url": "https://santoshchoubey.com/images/communicator-gallery/2.jpg",
+    "pages": [
+      "/science-communicator"
+    ],
+    "alt": "Electronici aapke liye 100th Editio"
+  },
+  "/images/communicator-gallery/3.jpg": {
+    "url": "https://santoshchoubey.com/images/communicator-gallery/3.jpg",
+    "pages": [
+      "/science-communicator"
+    ],
+    "alt": "Electronici aapke liye 200th Edition"
+  },
+  "/images/communicator-gallery/4.jpg": {
+    "url": "https://santoshchoubey.com/images/communicator-gallery/4.jpg",
+    "pages": [
+      "/science-communicator"
+    ],
+    "alt": "Electronici aapke liye 250th Edition"
+  },
+  "/images/communicator-gallery/5.jpg": {
+    "url": "https://santoshchoubey.com/images/communicator-gallery/5.jpg",
+    "pages": [
+      "/science-communicator"
+    ],
+    "alt": "Electronici aapke liye 300th Edition"
+  },
+  "/images/communicator-gallery/6.jpg": {
+    "url": "https://santoshchoubey.com/images/communicator-gallery/6.jpg",
+    "pages": [
+      "/science-communicator"
+    ],
+    "alt": ""
+  },
+  "/images/ancrntu.webp": {
+    "url": "https://santoshchoubey.com/images/ancrntu.webp",
+    "pages": [
+      "/educational-institutions"
+    ],
+    "alt": "AIC RNTU"
+  },
+  "/images/building2.webp": {
+    "url": "https://santoshchoubey.com/images/building2.webp",
+    "pages": [
+      "/educational-institutions"
+    ],
+    "alt": "Dr. C.V. Raman University, Bilaspur, C.G."
+  },
+  "/images/building7.webp": {
+    "url": "https://santoshchoubey.com/images/building7.webp",
+    "pages": [
+      "/educational-institutions"
+    ],
+    "alt": "SCOPE Public Higher Secondary School, Bhopal, M.P."
+  },
+  "/images/building1.webp": {
+    "url": "https://santoshchoubey.com/images/building1.webp",
+    "pages": [
+      "/educational-institutions"
+    ],
+    "alt": "All India Society for Electronics and Computer Technology AISECT"
+  },
+  "/images/profile-img.webp": {
+    "url": "https://santoshchoubey.com/images/profile-img.webp",
+    "pages": [
+      "/literary-profile"
+    ],
+    "alt": "Poet, Storyteller, Novelist"
+  },
+  "/images/book.webp": {
+    "url": "https://santoshchoubey.com/images/book.webp",
+    "pages": [
+      "/literary-profile"
+    ],
+    "alt": "books"
+  },
+  "/images/jaltarang/1.webp": {
+    "url": "https://santoshchoubey.com/images/jaltarang/1.webp",
+    "pages": [
+      "/literary-profile"
+    ],
+    "alt": ""
+  },
+  "/images/jaltarang/2.webp": {
+    "url": "https://santoshchoubey.com/images/jaltarang/2.webp",
+    "pages": [
+      "/literary-profile"
+    ],
+    "alt": ""
+  },
+  "/images/jaltarang/3.webp": {
+    "url": "https://santoshchoubey.com/images/jaltarang/3.webp",
+    "pages": [
+      "/literary-profile"
+    ],
+    "alt": ""
+  },
+  "/images/jaltarang/4.webp": {
+    "url": "https://santoshchoubey.com/images/jaltarang/4.webp",
+    "pages": [
+      "/literary-profile"
+    ],
+    "alt": ""
+  },
+  "/images/jaltarang/5.webp": {
+    "url": "https://santoshchoubey.com/images/jaltarang/5.webp",
+    "pages": [
+      "/literary-profile"
+    ],
+    "alt": ""
+  },
+  "/images/jaltarang/6.webp": {
+    "url": "https://santoshchoubey.com/images/jaltarang/6.webp",
+    "pages": [
+      "/literary-profile"
+    ],
+    "alt": ""
+  },
+  "/images/jaltarang/7.webp": {
+    "url": "https://santoshchoubey.com/images/jaltarang/7.webp",
+    "pages": [
+      "/literary-profile"
+    ],
+    "alt": ""
+  },
+  "/images/jaltarang/8.webp": {
+    "url": "https://santoshchoubey.com/images/jaltarang/8.webp",
+    "pages": [
+      "/literary-profile"
+    ],
+    "alt": ""
+  },
+  "/images/jaltarang/9.webp": {
+    "url": "https://santoshchoubey.com/images/jaltarang/9.webp",
+    "pages": [
+      "/literary-profile"
+    ],
+    "alt": ""
+  },
+  "/images/jaltarang/10.webp": {
+    "url": "https://santoshchoubey.com/images/jaltarang/10.webp",
+    "pages": [
+      "/literary-profile"
+    ],
+    "alt": ""
+  },
+  "/images/collection.webp": {
+    "url": "https://santoshchoubey.com/images/collection.webp",
+    "pages": [
+      "/literary-profile"
+    ],
+    "alt": "Vanmali"
+  },
+  "/images/literary.webp": {
+    "url": "https://santoshchoubey.com/images/literary.webp",
+    "pages": [
+      "/literary-profile"
+    ],
+    "alt": "Along with writing"
+  },
+  "/images/vishwarang-gallery/1.webp": {
+    "url": "https://santoshchoubey.com/images/vishwarang-gallery/1.webp",
+    "pages": [
+      "/literary-profile",
+      "/vishwarang-foundation"
+    ],
+    "alt": ""
+  },
+  "/images/vishwarang-gallery/2.webp": {
+    "url": "https://santoshchoubey.com/images/vishwarang-gallery/2.webp",
+    "pages": [
+      "/literary-profile"
+    ],
+    "alt": ""
+  },
+  "/images/vishwarang-gallery/3.webp": {
+    "url": "https://santoshchoubey.com/images/vishwarang-gallery/3.webp",
+    "pages": [
+      "/literary-profile",
+      "/vishwarang-foundation"
+    ],
+    "alt": ""
+  },
+  "/images/vishwarang-gallery/4.webp": {
+    "url": "https://santoshchoubey.com/images/vishwarang-gallery/4.webp",
+    "pages": [
+      "/literary-profile"
+    ],
+    "alt": ""
+  },
+  "/images/vishwarang-gallery/5.webp": {
+    "url": "https://santoshchoubey.com/images/vishwarang-gallery/5.webp",
+    "pages": [
+      "/literary-profile",
+      "/vishwarang-foundation"
+    ],
+    "alt": ""
+  },
+  "/images/vishwarang-gallery/6.webp": {
+    "url": "https://santoshchoubey.com/images/vishwarang-gallery/6.webp",
+    "pages": [
+      "/literary-profile"
+    ],
+    "alt": ""
+  },
+  "/images/literary-img1.png": {
+    "url": "https://santoshchoubey.com/images/literary-img1.png",
+    "pages": [
+      "/poet",
+      "/theatre"
+    ],
+    "alt": "संतोष चौबे"
+  },
+  "/images/poet-2.png": {
+    "url": "https://santoshchoubey.com/images/poet-2.png",
+    "pages": [
+      "/poet"
+    ],
+    "alt": "Poetry in Defense of Humanity"
+  },
+  "/images/poet-3.png": {
+    "url": "https://santoshchoubey.com/images/poet-3.png",
+    "pages": [
+      "/poet"
+    ],
+    "alt": "Political Irony and Social Commentary"
+  },
+  "/images/poet-4.png": {
+    "url": "https://santoshchoubey.com/images/poet-4.png",
+    "pages": [
+      "/poet"
+    ],
+    "alt": "Political Irony and Social Commentary"
+  },
+  "/images/poet-5.png": {
+    "url": "https://santoshchoubey.com/images/poet-5.png",
+    "pages": [
+      "/poet"
+    ],
+    "alt": "A Voice for the Present Moment"
+  },
+  "/images/writer-img.png": {
+    "url": "https://santoshchoubey.com/images/writer-img.png",
+    "pages": [
+      "/writer"
+    ],
+    "alt": "books"
+  },
+  "/images/writer-1.png": {
+    "url": "https://santoshchoubey.com/images/writer-1.png",
+    "pages": [
+      "/writer"
+    ],
+    "alt": "A Voice for the Present Moment"
+  },
+  "/images/writer-4.png": {
+    "url": "https://santoshchoubey.com/images/writer-4.png",
+    "pages": [
+      "/writer"
+    ],
+    "alt": "Political Irony and Social Commentary"
+  },
+  "/images/writer-3.png": {
+    "url": "https://santoshchoubey.com/images/writer-3.png",
+    "pages": [
+      "/writer"
+    ],
+    "alt": "Political Irony and Social Commentary"
+  },
+  "/images/writer-5.png": {
+    "url": "https://santoshchoubey.com/images/writer-5.png",
+    "pages": [
+      "/writer"
+    ],
+    "alt": "A Voice for the Present Moment"
+  },
+  "/images/jagannath2.png": {
+    "url": "https://santoshchoubey.com/images/jagannath2.png",
+    "pages": [
+      "/theatre"
+    ],
+    "alt": ""
+  },
+  "/images/jagannath.png": {
+    "url": "https://santoshchoubey.com/images/jagannath.png",
+    "pages": [
+      "/theatre"
+    ],
+    "alt": ""
+  },
+  "/images/jagannath1.png": {
+    "url": "https://santoshchoubey.com/images/jagannath1.png",
+    "pages": [
+      "/theatre"
+    ],
+    "alt": ""
+  },
+  "/images/theatre-3.png": {
+    "url": "https://santoshchoubey.com/images/theatre-3.png",
+    "pages": [
+      "/theatre"
+    ],
+    "alt": "Artistic Philosophy and Impact"
+  },
+  "/images/theatre-4.png": {
+    "url": "https://santoshchoubey.com/images/theatre-4.png",
+    "pages": [
+      "/theatre"
+    ],
+    "alt": "Santosh Choubey – A Theatre Artist Rooted in People and Poetry"
+  },
+  "/images/theatre-gallery/1.jpg": {
+    "url": "https://santoshchoubey.com/images/theatre-gallery/1.jpg",
+    "pages": [
+      "/theatre"
+    ],
+    "alt": ""
+  },
+  "/images/theatre-gallery/2.jpg": {
+    "url": "https://santoshchoubey.com/images/theatre-gallery/2.jpg",
+    "pages": [
+      "/theatre"
+    ],
+    "alt": ""
+  },
+  "/images/theatre-gallery/3.jpg": {
+    "url": "https://santoshchoubey.com/images/theatre-gallery/3.jpg",
+    "pages": [
+      "/theatre"
+    ],
+    "alt": ""
+  },
+  "/images/theatre-gallery/4.jpg": {
+    "url": "https://santoshchoubey.com/images/theatre-gallery/4.jpg",
+    "pages": [
+      "/theatre"
+    ],
+    "alt": ""
+  },
+  "/images/theatre-gallery/5.jpg": {
+    "url": "https://santoshchoubey.com/images/theatre-gallery/5.jpg",
+    "pages": [
+      "/theatre"
+    ],
+    "alt": ""
+  },
+  "/images/theatre-gallery/6.jpg": {
+    "url": "https://santoshchoubey.com/images/theatre-gallery/6.jpg",
+    "pages": [
+      "/theatre"
+    ],
+    "alt": ""
+  },
+  "/images/global-platform.webp": {
+    "url": "https://santoshchoubey.com/images/global-platform.webp",
+    "pages": [
+      "/vishwarang-foundation"
+    ],
+    "alt": "“Vishwarang” – A Global Platform of Indian Culture"
+  },
+  "/images/modi.webp": {
+    "url": "https://santoshchoubey.com/images/modi.webp",
+    "pages": [
+      "/vishwarang-foundation"
+    ],
+    "alt": "नरेन्द्र मोदी प्रधानमंत्री, भारत अभिमत"
+  },
+  "/images/bringing.webp": {
+    "url": "https://santoshchoubey.com/images/bringing.webp",
+    "pages": [
+      "/vishwarang-foundation"
+    ],
+    "alt": "Bringing Indian Languages to the Center"
+  },
+  "/images/virtual.webp": {
+    "url": "https://santoshchoubey.com/images/virtual.webp",
+    "pages": [
+      "/vishwarang-foundation"
+    ],
+    "alt": "Virtual Editions During the Pandemic"
+  },
+  "/images/participation.webp": {
+    "url": "https://santoshchoubey.com/images/participation.webp",
+    "pages": [
+      "/vishwarang-foundation"
+    ],
+    "alt": "Participation and Recognition"
+  },
+  "/images/vishwarang-gallery/9.webp": {
+    "url": "https://santoshchoubey.com/images/vishwarang-gallery/9.webp",
+    "pages": [
+      "/vishwarang-foundation"
+    ],
+    "alt": ""
+  },
+  "/images/vishwarang-gallery/11.webp": {
+    "url": "https://santoshchoubey.com/images/vishwarang-gallery/11.webp",
+    "pages": [
+      "/vishwarang-foundation"
+    ],
+    "alt": ""
+  },
+  "/images/vishwarang-gallery/10.webp": {
+    "url": "https://santoshchoubey.com/images/vishwarang-gallery/10.webp",
+    "pages": [
+      "/vishwarang-foundation"
+    ],
+    "alt": ""
+  },
+  "/images/karan.webp": {
+    "url": "https://santoshchoubey.com/images/karan.webp",
+    "pages": [
+      "/vishwarang-foundation"
+    ],
+    "alt": "Karan Singh, Politician-Thinker"
+  },
+  "/images/lebo.webp": {
+    "url": "https://santoshchoubey.com/images/lebo.webp",
+    "pages": [
+      "/vishwarang-foundation"
+    ],
+    "alt": "Lebo Mashile, Writer, South Africa"
+  },
+  "/images/liudmila.webp": {
+    "url": "https://santoshchoubey.com/images/liudmila.webp",
+    "pages": [
+      "/vishwarang-foundation"
+    ],
+    "alt": "Liudmila Khokhlova, Professor, Moscow University, Russia"
+  },
+  "/images/susham.webp": {
+    "url": "https://santoshchoubey.com/images/susham.webp",
+    "pages": [
+      "/vishwarang-foundation"
+    ],
+    "alt": "Susham Bedi, Story Writer, USA"
+  },
+  "/images/dharmpal.webp": {
+    "url": "https://santoshchoubey.com/images/dharmpal.webp",
+    "pages": [
+      "/vishwarang-foundation"
+    ],
+    "alt": "Dharmpal Mahendra Jain, Writer, Toronto"
+  },
+  "/images/mamta.webp": {
+    "url": "https://santoshchoubey.com/images/mamta.webp",
+    "pages": [
+      "/vishwarang-foundation"
+    ],
+    "alt": "Mamta Kalia, Story Writer"
+  },
+  "/images/sudhir.webp": {
+    "url": "https://santoshchoubey.com/images/sudhir.webp",
+    "pages": [
+      "/vishwarang-foundation"
+    ],
+    "alt": "Sudhir Chandra, Historian"
+  },
+  "/images/tenzin.webp": {
+    "url": "https://santoshchoubey.com/images/tenzin.webp",
+    "pages": [
+      "/vishwarang-foundation"
+    ],
+    "alt": "Tenzin Tsundue, Translator, Tibet"
+  },
+  "/images/indranath.webp": {
+    "url": "https://santoshchoubey.com/images/indranath.webp",
+    "pages": [
+      "/vishwarang-foundation"
+    ],
+    "alt": "Indranath Choudhuri, Writer"
+  },
+  "/images/semida.webp": {
+    "url": "https://santoshchoubey.com/images/semida.webp",
+    "pages": [
+      "/vishwarang-foundation"
+    ],
+    "alt": "Semida David, Writer, Romania"
+  },
+  "/images/chitra.webp": {
+    "url": "https://santoshchoubey.com/images/chitra.webp",
+    "pages": [
+      "/vishwarang-foundation"
+    ],
+    "alt": "Chitra Mudgal, Storyteller"
+  },
+  "/images/srinivas.webp": {
+    "url": "https://santoshchoubey.com/images/srinivas.webp",
+    "pages": [
+      "/vishwarang-foundation"
+    ],
+    "alt": "K. Srinivas Rao, Secretary, Sahitya Akademi, Delhi"
+  },
+  "/images/anupama.webp": {
+    "url": "https://santoshchoubey.com/images/anupama.webp",
+    "pages": [
+      "/vishwarang-foundation"
+    ],
+    "alt": "Anupama Dey, Painter"
+  },
+  "/images/alia.webp": {
+    "url": "https://santoshchoubey.com/images/alia.webp",
+    "pages": [
+      "/vishwarang-foundation"
+    ],
+    "alt": "Alia Sheikh, Writer"
+  },
+  "/images/gennady.webp": {
+    "url": "https://santoshchoubey.com/images/gennady.webp",
+    "pages": [
+      "/vishwarang-foundation"
+    ],
+    "alt": "Gennady Shlomper, Linguist, Israel"
+  },
+  "/images/books/taja.jpg": {
+    "url": "https://santoshchoubey.com/images/books/taja.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "ताज़ा हवा की खोज में"
+  },
+  "/images/books/kavita2.jpg": {
+    "url": "https://santoshchoubey.com/images/books/kavita2.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "कोना धरती का"
+  },
+  "/images/books/a-kabe.jpg": {
+    "url": "https://santoshchoubey.com/images/books/a-kabe.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "इस अ-कवि समय में"
+  },
+  "/images/books/kavita1.jpg": {
+    "url": "https://santoshchoubey.com/images/books/kavita1.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "घर बाहर"
+  },
+  "/images/books/10-book.jpg": {
+    "url": "https://santoshchoubey.com/images/books/10-book.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "दस कहानियाँ"
+  },
+  "/images/books/kahani1.jpg": {
+    "url": "https://santoshchoubey.com/images/books/kahani1.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "हल्के रंग की कमीज़"
+  },
+  "/images/books/kahani4.jpg": {
+    "url": "https://santoshchoubey.com/images/books/kahani4.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "रेस्त्रां में दोपहर"
+  },
+  "/images/books/kahani3.jpg": {
+    "url": "https://santoshchoubey.com/images/books/kahani3.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "प्रतिनिधि कहानियाँ"
+  },
+  "/images/books/kahani2.jpg": {
+    "url": "https://santoshchoubey.com/images/books/kahani2.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "नौ बिंदुओं का खेल"
+  },
+  "/images/books/kahani20.jpg": {
+    "url": "https://santoshchoubey.com/images/books/kahani20.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "बीच प्रेम में गाँधी"
+  },
+  "/images/books/kahani5.jpg": {
+    "url": "https://santoshchoubey.com/images/books/kahani5.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "मगर शेक्सपियर को याद रखना"
+  },
+  "/images/books/upanyas/upanyas1.png": {
+    "url": "https://santoshchoubey.com/images/books/upanyas/upanyas1.png",
+    "pages": [
+      "/books"
+    ],
+    "alt": "राग केदार"
+  },
+  "/images/books/upanyas/upanyas2.png": {
+    "url": "https://santoshchoubey.com/images/books/upanyas/upanyas2.png",
+    "pages": [
+      "/books"
+    ],
+    "alt": "क्या पता कॉमरेड मोहन"
+  },
+  "/images/books/vishwarang15.png": {
+    "url": "https://santoshchoubey.com/images/books/vishwarang15.png",
+    "pages": [
+      "/books"
+    ],
+    "alt": "जलतरंग"
+  },
+  "/images/books/upanyas/upanyas3.png": {
+    "url": "https://santoshchoubey.com/images/books/upanyas/upanyas3.png",
+    "pages": [
+      "/books"
+    ],
+    "alt": "सपनों की दुनिया में ब्लैकहोल"
+  },
+  "/images/books/anuvad2.jpg": {
+    "url": "https://santoshchoubey.com/images/books/anuvad2.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "लेखक और प्रतिबद्धता"
+  },
+  "/images/books/anuvad1.jpg": {
+    "url": "https://santoshchoubey.com/images/books/anuvad1.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "मास्को डायरी"
+  },
+  "/images/books/anuvad3.jpg": {
+    "url": "https://santoshchoubey.com/images/books/anuvad3.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "भ्रमित आदमी के लिए एक किताब"
+  },
+  "/images/books/alochna1.jpg": {
+    "url": "https://santoshchoubey.com/images/books/alochna1.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "कला की संगत"
+  },
+  "/images/books/alochna2.jpg": {
+    "url": "https://santoshchoubey.com/images/books/alochna2.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "अपने समय में"
+  },
+  "/images/books/alochna3.jpg": {
+    "url": "https://santoshchoubey.com/images/books/alochna3.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "आख्यान का आंतरिक संकट"
+  },
+  "/images/books/alochna4.jpg": {
+    "url": "https://santoshchoubey.com/images/books/alochna4.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "कहानी: स्वप्न और यथार्थ"
+  },
+  "/images/books/alochna5.jpg": {
+    "url": "https://santoshchoubey.com/images/books/alochna5.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "उपन्यास की नई परंपरा"
+  },
+  "/images/books/alochna6.jpg": {
+    "url": "https://santoshchoubey.com/images/books/alochna6.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "परम्परा और आधुनिकता"
+  },
+  "/images/books/sanklan25.jpg": {
+    "url": "https://santoshchoubey.com/images/books/sanklan25.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "कहानी का रास्ता"
+  },
+  "/images/books/rang1.jpg": {
+    "url": "https://santoshchoubey.com/images/books/rang1.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "विश्‍वरंग संवाद"
+  },
+  "/images/books/rang2.jpg": {
+    "url": "https://santoshchoubey.com/images/books/rang2.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "विश्‍वरंग संवाद"
+  },
+  "/images/books/rang3.jpg": {
+    "url": "https://santoshchoubey.com/images/books/rang3.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "विश्‍वरंग संवाद"
+  },
+  "/images/books/rang4.jpg": {
+    "url": "https://santoshchoubey.com/images/books/rang4.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "साहित्य का विश्‍वरंग)"
+  },
+  "/images/books/rang5.jpg": {
+    "url": "https://santoshchoubey.com/images/books/rang5.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "विश्‍वरंग संवाद "
+  },
+  "/images/books/rang6.jpg": {
+    "url": "https://santoshchoubey.com/images/books/rang6.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "विश्‍वरंग संवाद"
+  },
+  "/images/books/rang7.jpg": {
+    "url": "https://santoshchoubey.com/images/books/rang7.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "रंग संवाद"
+  },
+  "/images/books/rang8.jpg": {
+    "url": "https://santoshchoubey.com/images/books/rang8.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "विश्‍वरंग संवाद"
+  },
+  "/images/books/rang9.jpg": {
+    "url": "https://santoshchoubey.com/images/books/rang9.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "विश्‍वरंग संवाद"
+  },
+  "/images/books/rang10.jpg": {
+    "url": "https://santoshchoubey.com/images/books/rang10.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "विश्‍वरंग संवाद"
+  },
+  "/images/books/rang11.jpg": {
+    "url": "https://santoshchoubey.com/images/books/rang11.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "विश्‍वरंग संवाद"
+  },
+  "/images/books/rang12.jpg": {
+    "url": "https://santoshchoubey.com/images/books/rang12.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "विश्‍वरंग संवाद"
+  },
+  "/images/books/rang13.jpg": {
+    "url": "https://santoshchoubey.com/images/books/rang13.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "विश्‍वरंग संवाद"
+  },
+  "/images/books/rang15.jpg": {
+    "url": "https://santoshchoubey.com/images/books/rang15.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "विश्‍वरंग संवाद"
+  },
+  "/images/books/rang14.jpg": {
+    "url": "https://santoshchoubey.com/images/books/rang14.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "विश्‍वरंग संवाद"
+  },
+  "/images/books/katha6.jpg": {
+    "url": "https://santoshchoubey.com/images/books/katha6.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "वनमाली कथा अंक-37, फ़रवरी 2025"
+  },
+  "/images/books/katha3.jpg": {
+    "url": "https://santoshchoubey.com/images/books/katha3.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "वनमाली कथा अंक-40, मई 2025"
+  },
+  "/images/books/katha4.jpg": {
+    "url": "https://santoshchoubey.com/images/books/katha4.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "वनमाली कथा अंक-16, मई 2023"
+  },
+  "/images/books/katha5.jpg": {
+    "url": "https://santoshchoubey.com/images/books/katha5.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "वनमाली कथा अंक-17, जून 2023"
+  },
+  "/images/books/katha2.jpg": {
+    "url": "https://santoshchoubey.com/images/books/katha2.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "वनमाली कथा अंक-18, जुलाई 2023"
+  },
+  "/images/books/katha1.jpg": {
+    "url": "https://santoshchoubey.com/images/books/katha1.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "वनमाली कथा अंक-19, अगस्त 2023"
+  },
+  "/images/books/katha8.jpg": {
+    "url": "https://santoshchoubey.com/images/books/katha8.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "वनमाली कथा अंक-21, अक्टूबर 2023"
+  },
+  "/images/books/sampurn1.jpg": {
+    "url": "https://santoshchoubey.com/images/books/sampurn1.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "वनमाली समग्र: सृजन"
+  },
+  "/images/books/sampurn2.jpg": {
+    "url": "https://santoshchoubey.com/images/books/sampurn2.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "वनमाली समग्र: स्मृति"
+  },
+  "/images/books/sanklan26.jpg": {
+    "url": "https://santoshchoubey.com/images/books/sanklan26.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "सम्पूर्ण कहानियाँ: जगन्नाथ प्रसाद चौबे ‘वनमाली’"
+  },
+  "/images/books/sanklan27.jpg": {
+    "url": "https://santoshchoubey.com/images/books/sanklan27.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "अंतरराष्ट्रीय विश्व कविता संचयन"
+  },
+  "/images/books/sanklan28.jpg": {
+    "url": "https://santoshchoubey.com/images/books/sanklan28.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "परंपरा और परिवेश"
+  },
+  "/images/books/sanklan29.jpg": {
+    "url": "https://santoshchoubey.com/images/books/sanklan29.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "अनुनाद"
+  },
+  "/images/books/sanklan30.jpg": {
+    "url": "https://santoshchoubey.com/images/books/sanklan30.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "आनन्द धारा"
+  },
+  "/images/books/sanklan31.jpg": {
+    "url": "https://santoshchoubey.com/images/books/sanklan31.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "रंगमंच के राही"
+  },
+  "/images/books/sanklan32.jpg": {
+    "url": "https://santoshchoubey.com/images/books/sanklan32.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "रंगलोक का महानायक"
+  },
+  "/images/books/sanklan33.jpg": {
+    "url": "https://santoshchoubey.com/images/books/sanklan33.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "कवि सप्तक"
+  },
+  "/images/books/sakchatkar1.jpg": {
+    "url": "https://santoshchoubey.com/images/books/sakchatkar1.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "शब्द, ध्वनि और दृश्य"
+  },
+  "/images/books/sanklan23.jpg": {
+    "url": "https://santoshchoubey.com/images/books/sanklan23.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "A Journey In Time-1"
+  },
+  "/images/books/sanklan24.jpg": {
+    "url": "https://santoshchoubey.com/images/books/sanklan24.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "A Journey In Time-2"
+  },
+  "/images/books/sanklan19.jpg": {
+    "url": "https://santoshchoubey.com/images/books/sanklan19.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "खंड-1 - कथा विरासत"
+  },
+  "/images/books/sanklan20.jpg": {
+    "url": "https://santoshchoubey.com/images/books/sanklan20.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "खंड-2 - समकालीन कहानी-1"
+  },
+  "/images/books/sanklan21.jpg": {
+    "url": "https://santoshchoubey.com/images/books/sanklan21.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "खंड-3 - समकालीन कहानी-2"
+  },
+  "/images/books/sanklan22.jpg": {
+    "url": "https://santoshchoubey.com/images/books/sanklan22.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "खंड-4 - समकालीन कहानी-3"
+  },
+  "/images/books/sanklan1.jpg": {
+    "url": "https://santoshchoubey.com/images/books/sanklan1.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "कथादेश - खण्ड 1 धरोहर"
+  },
+  "/images/books/sanklan2.jpg": {
+    "url": "https://santoshchoubey.com/images/books/sanklan2.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "कथादेश (खंड-18)"
+  },
+  "/images/books/sanklan3.jpg": {
+    "url": "https://santoshchoubey.com/images/books/sanklan3.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "कथा भोपाल (खंड-4) "
+  },
+  "/images/books/sanklan4.jpg": {
+    "url": "https://santoshchoubey.com/images/books/sanklan4.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "विज्ञान कथाकोश (खंड-6)"
+  },
+  "/images/books/sanklan5.jpg": {
+    "url": "https://santoshchoubey.com/images/books/sanklan5.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "विज्ञान कविताकोश (खंड-3)"
+  },
+  "/images/books/sanklan6.jpg": {
+    "url": "https://santoshchoubey.com/images/books/sanklan6.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "बाल कविताकोश (खंड-11)"
+  },
+  "/images/books/sanklan7.jpg": {
+    "url": "https://santoshchoubey.com/images/books/sanklan7.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "बाल कविताकोश (खंड-11)"
+  },
+  "/images/books/sanklan8.jpg": {
+    "url": "https://santoshchoubey.com/images/books/sanklan8.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "बाल कविताकोश (खंड-11)"
+  },
+  "/images/books/sanklan9.jpg": {
+    "url": "https://santoshchoubey.com/images/books/sanklan9.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "बाल कविताकोश (खंड-11)"
+  },
+  "/images/books/sanklan10.jpg": {
+    "url": "https://santoshchoubey.com/images/books/sanklan10.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "बाल कविताकोश (खंड-11)"
+  },
+  "/images/books/sanklan11.jpg": {
+    "url": "https://santoshchoubey.com/images/books/sanklan11.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "बाल कविताकोश (खंड-11)"
+  },
+  "/images/books/sanklan12.jpg": {
+    "url": "https://santoshchoubey.com/images/books/sanklan12.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "बाल कविताकोश (खंड-11)"
+  },
+  "/images/books/sanklan13.jpg": {
+    "url": "https://santoshchoubey.com/images/books/sanklan13.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "बाल कविताकोश (खंड-11)"
+  },
+  "/images/books/sanklan14.jpg": {
+    "url": "https://santoshchoubey.com/images/books/sanklan14.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "बाल कविताकोश (खंड-11)"
+  },
+  "/images/books/sanklan15.jpg": {
+    "url": "https://santoshchoubey.com/images/books/sanklan15.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "बाल कविताकोश (खंड-11)"
+  },
+  "/images/books/sanklan16.jpg": {
+    "url": "https://santoshchoubey.com/images/books/sanklan16.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "बाल कविताकोश (खंड-11)"
+  },
+  "/images/books/sanklan17.jpg": {
+    "url": "https://santoshchoubey.com/images/books/sanklan17.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "बाल कविताकोश (खंड-11)"
+  },
+  "/images/books/sanklan18.jpg": {
+    "url": "https://santoshchoubey.com/images/books/sanklan18.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "बाल कविताकोश (खंड-11)"
+  },
+  "/images/books/compilation1.jpg": {
+    "url": "https://santoshchoubey.com/images/books/compilation1.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "विज्ञान कथा कोश खंड-1"
+  },
+  "/images/books/compilation2.jpg": {
+    "url": "https://santoshchoubey.com/images/books/compilation2.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "विज्ञान कथा कोश खंड-2"
+  },
+  "/images/books/compilation3.jpg": {
+    "url": "https://santoshchoubey.com/images/books/compilation3.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "विज्ञान कथा कोश खंड-3"
+  },
+  "/images/books/compilation4.png": {
+    "url": "https://santoshchoubey.com/images/books/compilation4.png",
+    "pages": [
+      "/books"
+    ],
+    "alt": "विज्ञान कथा कोश खंड-4"
+  },
+  "/images/books/compilation5.png": {
+    "url": "https://santoshchoubey.com/images/books/compilation5.png",
+    "pages": [
+      "/books"
+    ],
+    "alt": "विज्ञान कथा कोश खंड-5"
+  },
+  "/images/books/compilation6.jpg": {
+    "url": "https://santoshchoubey.com/images/books/compilation6.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "विज्ञान कथा कोश खंड-6"
+  },
+  "/images/books/sanklan36.jpg": {
+    "url": "https://santoshchoubey.com/images/books/sanklan36.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "विज्ञान कविता कोश खंड-1 - प्रश्न उपस्थित नित्य नए"
+  },
+  "/images/books/sanklan35.jpg": {
+    "url": "https://santoshchoubey.com/images/books/sanklan35.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "विज्ञान कविता कोश खंड-2 - पृथ्वी खोजती हो अपना होना"
+  },
+  "/images/books/sanklan37.jpg": {
+    "url": "https://santoshchoubey.com/images/books/sanklan37.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "विज्ञान कविता कोश खंड-3 - अभेध है वह जो विशाल है"
+  },
+  "/images/books/sanklan38.jpg": {
+    "url": "https://santoshchoubey.com/images/books/sanklan38.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "कथा भोपाल - खंड-1  - स्थानीयता का विश्वरंग"
+  },
+  "/images/books/sanklan39.jpg": {
+    "url": "https://santoshchoubey.com/images/books/sanklan39.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "कथा भोपाल - खंड-2  - स्थानीयता का विश्वरंग"
+  },
+  "/images/books/sanklan40.jpg": {
+    "url": "https://santoshchoubey.com/images/books/sanklan40.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "कथा भोपाल - खंड-3  - स्थानीयता का विश्वरंग"
+  },
+  "/images/books/sanklan41.jpg": {
+    "url": "https://santoshchoubey.com/images/books/sanklan41.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "कथा भोपाल - खंड-4  - स्थानीयता का विश्वरंग"
+  },
+  "/images/books/sagat.png": {
+    "url": "https://santoshchoubey.com/images/books/sagat.png",
+    "pages": [
+      "/books"
+    ],
+    "alt": "संगत: संपादक"
+  },
+  "/images/books/sagat3.png": {
+    "url": "https://santoshchoubey.com/images/books/sagat3.png",
+    "pages": [
+      "/books"
+    ],
+    "alt": "संवाद"
+  },
+  "/images/books/sagat1.png": {
+    "url": "https://santoshchoubey.com/images/books/sagat1.png",
+    "pages": [
+      "/books"
+    ],
+    "alt": "सृजन"
+  },
+  "/images/books/sagat2.png": {
+    "url": "https://santoshchoubey.com/images/books/sagat2.png",
+    "pages": [
+      "/books"
+    ],
+    "alt": "सह-मत"
+  },
+  "/images/books/jalatarang.jpg": {
+    "url": "https://santoshchoubey.com/images/books/jalatarang.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "जलतरंग (अंग्रेज़ी)"
+  },
+  "/images/books/jalatarang3.jpg": {
+    "url": "https://santoshchoubey.com/images/books/jalatarang3.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "नौ बिंदुओं का खेल (उर्दू)"
+  },
+  "/images/books/jalatarang4.jpg": {
+    "url": "https://santoshchoubey.com/images/books/jalatarang4.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "कोना धरती का (ओड़िया)"
+  },
+  "/images/books/jalatarang5.jpg": {
+    "url": "https://santoshchoubey.com/images/books/jalatarang5.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "संतोष चौबे की मुंतखब दस कहानियाँ (उर्दू)"
+  },
+  "/images/books/bal1.jpg": {
+    "url": "https://santoshchoubey.com/images/books/bal1.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "हम भी होते काश कबूतर।"
+  },
+  "/images/books/bal2.jpg": {
+    "url": "https://santoshchoubey.com/images/books/bal2.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "पंख मेरे होते काश।"
+  },
+  "/images/books/bal3.jpg": {
+    "url": "https://santoshchoubey.com/images/books/bal3.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "उड़न खटोला"
+  },
+  "/images/books/bal4.jpg": {
+    "url": "https://santoshchoubey.com/images/books/bal4.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "रंगों के गीत"
+  },
+  "/images/books/bal5.jpg": {
+    "url": "https://santoshchoubey.com/images/books/bal5.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "धरती पे तारे"
+  },
+  "/images/books/bal6.jpg": {
+    "url": "https://santoshchoubey.com/images/books/bal6.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "तितली"
+  },
+  "/images/books/bal7.jpg": {
+    "url": "https://santoshchoubey.com/images/books/bal7.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "धीरे से मुस्काती चिड़िया"
+  },
+  "/images/books/bal8.jpg": {
+    "url": "https://santoshchoubey.com/images/books/bal8.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "तारे"
+  },
+  "/images/books/bal9.jpg": {
+    "url": "https://santoshchoubey.com/images/books/bal9.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "बड़े सवेरे सूरज आया"
+  },
+  "/images/books/bal10.jpg": {
+    "url": "https://santoshchoubey.com/images/books/bal10.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "लाल टमाटर"
+  },
+  "/images/books/bal11.jpg": {
+    "url": "https://santoshchoubey.com/images/books/bal11.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "कई रंगों की एक कहानी"
+  },
+  "/images/books/science29.jpg": {
+    "url": "https://santoshchoubey.com/images/books/science29.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "खनिज और मानव"
+  },
+  "/images/books/science5.jpg": {
+    "url": "https://santoshchoubey.com/images/books/science5.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "भारत का अंतरिक्ष कार्यक्रम"
+  },
+  "/images/books/science30.jpg": {
+    "url": "https://santoshchoubey.com/images/books/science30.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "जल संरक्षण"
+  },
+  "/images/books/science17.jpg": {
+    "url": "https://santoshchoubey.com/images/books/science17.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "भूमि संरक्षण"
+  },
+  "/images/books/science38.jpg": {
+    "url": "https://santoshchoubey.com/images/books/science38.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "पर्यावरण: दशा एवं दिशा"
+  },
+  "/images/books/science32.jpg": {
+    "url": "https://santoshchoubey.com/images/books/science32.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "वैकल्पिक ऊर्जा के स्त्रोत"
+  },
+  "/images/books/science16.jpg": {
+    "url": "https://santoshchoubey.com/images/books/science16.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "प्राचीन भारत में वैज्ञानिक चिंतन"
+  },
+  "/images/books/science31.jpg": {
+    "url": "https://santoshchoubey.com/images/books/science31.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "इलेक्ट्रॉनिकी आधारित सामरिक सुरक्षा तकनीक"
+  },
+  "/images/books/science11.jpg": {
+    "url": "https://santoshchoubey.com/images/books/science11.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "जैव विविधता संरक्षण"
+  },
+  "/images/books/science33.jpg": {
+    "url": "https://santoshchoubey.com/images/books/science33.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "दूरसंचार"
+  },
+  "/images/books/science35.jpg": {
+    "url": "https://santoshchoubey.com/images/books/science35.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "घर घर में विज्ञान"
+  },
+  "/images/books/science36.jpg": {
+    "url": "https://santoshchoubey.com/images/books/science36.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "भौतिकी की विकास यात्रा"
+  },
+  "/images/books/science37.jpg": {
+    "url": "https://santoshchoubey.com/images/books/science37.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "नैनोटेक्नोलाजी: छिपी संभावनाएं"
+  },
+  "/images/books/science15.jpg": {
+    "url": "https://santoshchoubey.com/images/books/science15.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "हमारे दैनिक जीवन में अंतरिक्ष"
+  },
+  "/images/books/science20.jpg": {
+    "url": "https://santoshchoubey.com/images/books/science20.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "वैश्विक तापन"
+  },
+  "/images/books/science34.jpg": {
+    "url": "https://santoshchoubey.com/images/books/science34.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "ई-वेस्ट प्रबंधन"
+  },
+  "/images/books/science39.jpg": {
+    "url": "https://santoshchoubey.com/images/books/science39.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "लेजर लाईट"
+  },
+  "/images/books/science45.jpg": {
+    "url": "https://santoshchoubey.com/images/books/science45.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "न्यूक्लियर एनर्जी"
+  },
+  "/images/books/science40.jpg": {
+    "url": "https://santoshchoubey.com/images/books/science40.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "न्यूट्रिनों की दुनिया"
+  },
+  "/images/books/science3.jpg": {
+    "url": "https://santoshchoubey.com/images/books/science3.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "भोजवैटलैंड: भोपाल ताल"
+  },
+  "/images/books/science2.jpg": {
+    "url": "https://santoshchoubey.com/images/books/science2.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "महासागर बोलते हैं"
+  },
+  "/images/books/science8.jpg": {
+    "url": "https://santoshchoubey.com/images/books/science8.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "महासागर: जीवन के आधार"
+  },
+  "/images/books/science4.jpg": {
+    "url": "https://santoshchoubey.com/images/books/science4.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "ब्रह्माण्ड की उत्पत्ति"
+  },
+  "/images/books/science7.jpg": {
+    "url": "https://santoshchoubey.com/images/books/science7.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "सूक्ष्म जीव विज्ञान"
+  },
+  "/images/books/science44.jpg": {
+    "url": "https://santoshchoubey.com/images/books/science44.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "भारत में विज्ञान एवं विज्ञान संचार की परंपरा"
+  },
+  "/images/books/science10.jpg": {
+    "url": "https://santoshchoubey.com/images/books/science10.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "सेहत और हम"
+  },
+  "/images/books/science9.jpg": {
+    "url": "https://santoshchoubey.com/images/books/science9.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "रसोई विज्ञान"
+  },
+  "/images/books/science1.jpg": {
+    "url": "https://santoshchoubey.com/images/books/science1.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "ह्यूमन ट्रांसमिशन एवं अन्य विज्ञान कथाएँ"
+  },
+  "/images/books/science41.jpg": {
+    "url": "https://santoshchoubey.com/images/books/science41.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "बायोइंफार्मेटिक्स वर्तमान एवं भविष्य"
+  },
+  "/images/books/science12.jpg": {
+    "url": "https://santoshchoubey.com/images/books/science12.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "हमारे प्रेरणा स्रोत भारतीय वैज्ञानिक"
+  },
+  "/images/books/science13.jpg": {
+    "url": "https://santoshchoubey.com/images/books/science13.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "मध्यप्रदेश की विज्ञान संचार यात्रा"
+  },
+  "/images/books/science14.jpg": {
+    "url": "https://santoshchoubey.com/images/books/science14.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "हिन्दी विज्ञान लेखन: भूत"
+  },
+  "/images/books/science42.jpg": {
+    "url": "https://santoshchoubey.com/images/books/science42.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "दैनिक जीवन में रसायन"
+  },
+  "/images/books/science18.jpg": {
+    "url": "https://santoshchoubey.com/images/books/science18.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "जलवायु परिवर्तन"
+  },
+  "/images/books/science43.jpg": {
+    "url": "https://santoshchoubey.com/images/books/science43.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "ग्रीन बेबी"
+  },
+  "/images/books/science6.jpg": {
+    "url": "https://santoshchoubey.com/images/books/science6.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "फॉरेंसिक साइंस"
+  },
+  "/images/books/science19.jpg": {
+    "url": "https://santoshchoubey.com/images/books/science19.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "सर्वशास्त्र शिरोमणि गणित"
+  },
+  "/images/books/science23.jpg": {
+    "url": "https://santoshchoubey.com/images/books/science23.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "ऊतक संवर्धन"
+  },
+  "/images/books/science21.jpg": {
+    "url": "https://santoshchoubey.com/images/books/science21.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "आइए लिनक्स सीखें"
+  },
+  "/images/books/science22.jpg": {
+    "url": "https://santoshchoubey.com/images/books/science22.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "हम क्या समझते हैं?"
+  },
+  "/images/books/science24.jpg": {
+    "url": "https://santoshchoubey.com/images/books/science24.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "सौन्दर्य प्रसाधनों का रसायन विज्ञान"
+  },
+  "/images/books/science25.jpg": {
+    "url": "https://santoshchoubey.com/images/books/science25.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "प्रदूषण जनित रोग"
+  },
+  "/images/books/science27.jpg": {
+    "url": "https://santoshchoubey.com/images/books/science27.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "भोपाल के पक्षी"
+  },
+  "/images/books/science26.jpg": {
+    "url": "https://santoshchoubey.com/images/books/science26.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "पर्यावरण और मानव जीवन"
+  },
+  "/images/books/science28.jpg": {
+    "url": "https://santoshchoubey.com/images/books/science28.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "बच्चों के लिए विज्ञान मॉडल"
+  },
+  "/images/books/computerekpraichay1.jpg": {
+    "url": "https://santoshchoubey.com/images/books/computerekpraichay1.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "कंप्यूटर एक परिचय"
+  },
+  "/images/books/computerekpraichay2.jpg": {
+    "url": "https://santoshchoubey.com/images/books/computerekpraichay2.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "बेसिक प्रोग्रामिंग"
+  },
+  "/images/books/science46.jpg": {
+    "url": "https://santoshchoubey.com/images/books/science46.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "कम्प्यूटर आपके लिये (बच्चों के लिये), छः पुस्तकों की शृंखला"
+  },
+  "/images/books/computerekpraichay4.jpg": {
+    "url": "https://santoshchoubey.com/images/books/computerekpraichay4.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "विंडोज़ और एमएस-ऑफिस"
+  },
+  "/images/books/computerekpraichay5.jpg": {
+    "url": "https://santoshchoubey.com/images/books/computerekpraichay5.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "डेटाबेस अवधारणाएँ एवं एस.क्यू.एल."
+  },
+  "/images/books/computerekpraichay6.jpg": {
+    "url": "https://santoshchoubey.com/images/books/computerekpraichay6.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "ऑबजेक्ट ओरिएन्टेड प्रोग्रामिंग - सी++"
+  },
+  "/images/books/computerekpraichay7.jpg": {
+    "url": "https://santoshchoubey.com/images/books/computerekpraichay7.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "संचार कौशल और व्यक्तित्व विकास"
+  },
+  "/images/books/computerekpraichay8.jpg": {
+    "url": "https://santoshchoubey.com/images/books/computerekpraichay8.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "इन्टरनेट एवं वेब टैक्नोलॉजी"
+  },
+  "/images/books/computerekpraichay9.jpg": {
+    "url": "https://santoshchoubey.com/images/books/computerekpraichay9.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "पायथन "
+  },
+  "/images/books/computerekpraichay10.jpg": {
+    "url": "https://santoshchoubey.com/images/books/computerekpraichay10.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "टैली आधारित वित्तीय लेखांकन का परिचय"
+  },
+  "/images/books/computerekpraichay11.jpg": {
+    "url": "https://santoshchoubey.com/images/books/computerekpraichay11.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "साइबर सुरक्षा परिचय"
+  },
+  "/images/books/computerekpraichay12.jpg": {
+    "url": "https://santoshchoubey.com/images/books/computerekpraichay12.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "डाटा स्ट्रक्चर - सी++"
+  },
+  "/images/books/computerekpraichay13.jpg": {
+    "url": "https://santoshchoubey.com/images/books/computerekpraichay13.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "इंफॉर्मेशन सिक्योरिटी मैनेजमेन्ट"
+  },
+  "/images/books/computerekpraichay14.jpg": {
+    "url": "https://santoshchoubey.com/images/books/computerekpraichay14.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "फोटोशॉप"
+  },
+  "/images/books/camputer3.jpg": {
+    "url": "https://santoshchoubey.com/images/books/camputer3.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "Windows and MS-Office"
+  },
+  "/images/books/camputer4.jpg": {
+    "url": "https://santoshchoubey.com/images/books/camputer4.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "Objects Oriented Programming With C++ "
+  },
+  "/images/books/camputer5.jpg": {
+    "url": "https://santoshchoubey.com/images/books/camputer5.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "Database Concepts and Introduction to SQL"
+  },
+  "/images/books/camputer6.jpg": {
+    "url": "https://santoshchoubey.com/images/books/camputer6.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "Communication Skills & Personality Development"
+  },
+  "/images/books/camputer7.jpg": {
+    "url": "https://santoshchoubey.com/images/books/camputer7.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "Introduction to Internet & Web Technology"
+  },
+  "/images/books/python1.jpg": {
+    "url": "https://santoshchoubey.com/images/books/python1.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "Python"
+  },
+  "/images/books/camputer11.jpg": {
+    "url": "https://santoshchoubey.com/images/books/camputer11.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "Data Structure through C++"
+  },
+  "/images/books/python2.jpg": {
+    "url": "https://santoshchoubey.com/images/books/python2.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "Information Security Management"
+  },
+  "/images/books/camputer13.jpg": {
+    "url": "https://santoshchoubey.com/images/books/camputer13.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "Introduction to Graphic Design using Photoshop"
+  },
+  "/images/books/python3.jpg": {
+    "url": "https://santoshchoubey.com/images/books/python3.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "Introduction to Financial Accounting with Tally"
+  },
+  "/images/books/python4.jpg": {
+    "url": "https://santoshchoubey.com/images/books/python4.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "Information Technology Tools and Network Basics"
+  },
+  "/images/books/python5.jpg": {
+    "url": "https://santoshchoubey.com/images/books/python5.jpg",
+    "pages": [
+      "/books"
+    ],
+    "alt": "Introduction to Cyber Security"
+  },
+  "/images/books/magazine3.png": {
+    "url": "https://santoshchoubey.com/images/books/magazine3.png",
+    "pages": [
+      "/books"
+    ],
+    "alt": "रंग संवाद"
+  },
+  "/images/books/magazine1.png": {
+    "url": "https://santoshchoubey.com/images/books/magazine1.png",
+    "pages": [
+      "/books"
+    ],
+    "alt": "इलेक्ट्रॉनिकी आपके लिये"
+  },
+  "/images/books/magazine2.png": {
+    "url": "https://santoshchoubey.com/images/books/magazine2.png",
+    "pages": [
+      "/books"
+    ],
+    "alt": "विश्वरंग संवाद"
+  },
+  "/images/books/science-fiction/science-fiction1.png": {
+    "url": "https://santoshchoubey.com/images/books/science-fiction/science-fiction1.png",
+    "pages": [
+      "/books"
+    ],
+    "alt": "सुपरनोवा का रहस्य"
+  },
+  "/images/awards/professional/vishwa.png": {
+    "url": "https://santoshchoubey.com/images/awards/professional/vishwa.png",
+    "pages": [
+      "/professional-awards"
+    ],
+    "alt": ""
+  },
+  "/images/awards/professional/world-education.png": {
+    "url": "https://santoshchoubey.com/images/awards/professional/world-education.png",
+    "pages": [
+      "/professional-awards"
+    ],
+    "alt": ""
+  },
+  "/images/awards/professional/world-education1.png": {
+    "url": "https://santoshchoubey.com/images/awards/professional/world-education1.png",
+    "pages": [
+      "/professional-awards"
+    ],
+    "alt": ""
+  },
+  "/images/awards/professional/world-education-2013.png": {
+    "url": "https://santoshchoubey.com/images/awards/professional/world-education-2013.png",
+    "pages": [
+      "/professional-awards"
+    ],
+    "alt": ""
+  },
+  "/images/awards/professional/asoka.png": {
+    "url": "https://santoshchoubey.com/images/awards/professional/asoka.png",
+    "pages": [
+      "/professional-awards"
+    ],
+    "alt": ""
+  },
+  "/images/awards/professional/schwab-foundation.png": {
+    "url": "https://santoshchoubey.com/images/awards/professional/schwab-foundation.png",
+    "pages": [
+      "/professional-awards"
+    ],
+    "alt": ""
+  },
+  "/images/awards/professional/development-award-2007.png": {
+    "url": "https://santoshchoubey.com/images/awards/professional/development-award-2007.png",
+    "pages": [
+      "/professional-awards"
+    ],
+    "alt": ""
+  },
+  "/images/awards/professional/bharat-gaurav-2024.png": {
+    "url": "https://santoshchoubey.com/images/awards/professional/bharat-gaurav-2024.png",
+    "pages": [
+      "/professional-awards"
+    ],
+    "alt": ""
+  },
+  "/images/awards/professional/prafulla.png": {
+    "url": "https://santoshchoubey.com/images/awards/professional/prafulla.png",
+    "pages": [
+      "/professional-awards"
+    ],
+    "alt": ""
+  },
+  "/images/awards/professional/gunakar-2020.png": {
+    "url": "https://santoshchoubey.com/images/awards/professional/gunakar-2020.png",
+    "pages": [
+      "/professional-awards"
+    ],
+    "alt": ""
+  },
+  "/images/awards/professional/csir.png": {
+    "url": "https://santoshchoubey.com/images/awards/professional/csir.png",
+    "pages": [
+      "/professional-awards"
+    ],
+    "alt": ""
+  },
+  "/images/awards/professional/leadership-award.png": {
+    "url": "https://santoshchoubey.com/images/awards/professional/leadership-award.png",
+    "pages": [
+      "/professional-awards"
+    ],
+    "alt": ""
+  },
+  "/images/awards/professional/assocham.png": {
+    "url": "https://santoshchoubey.com/images/awards/professional/assocham.png",
+    "pages": [
+      "/professional-awards"
+    ],
+    "alt": ""
+  },
+  "/images/awards/professional/nsdc-2015.png": {
+    "url": "https://santoshchoubey.com/images/awards/professional/nsdc-2015.png",
+    "pages": [
+      "/professional-awards"
+    ],
+    "alt": ""
+  },
+  "/images/awards/professional/skoch.png": {
+    "url": "https://santoshchoubey.com/images/awards/professional/skoch.png",
+    "pages": [
+      "/professional-awards"
+    ],
+    "alt": ""
+  },
+  "/images/awards/professional/payment-systems-award.png": {
+    "url": "https://santoshchoubey.com/images/awards/professional/payment-systems-award.png",
+    "pages": [
+      "/professional-awards"
+    ],
+    "alt": ""
+  },
+  "/images/awards/professional/achievement.png": {
+    "url": "https://santoshchoubey.com/images/awards/professional/achievement.png",
+    "pages": [
+      "/professional-awards"
+    ],
+    "alt": ""
+  },
+  "/images/awards/professional/rashtrabhasha-2009.png": {
+    "url": "https://santoshchoubey.com/images/awards/professional/rashtrabhasha-2009.png",
+    "pages": [
+      "/professional-awards"
+    ],
+    "alt": ""
+  },
+  "/images/awards/professional/rashtriya-csi-2011.png": {
+    "url": "https://santoshchoubey.com/images/awards/professional/rashtriya-csi-2011.png",
+    "pages": [
+      "/professional-awards"
+    ],
+    "alt": ""
+  },
+  "/images/awards/professional/emerge.png": {
+    "url": "https://santoshchoubey.com/images/awards/professional/emerge.png",
+    "pages": [
+      "/professional-awards"
+    ],
+    "alt": ""
+  },
+  "/images/awards/professional/tie-lumis.png": {
+    "url": "https://santoshchoubey.com/images/awards/professional/tie-lumis.png",
+    "pages": [
+      "/professional-awards"
+    ],
+    "alt": ""
+  },
+  "/images/awards/professional/national-2005.png": {
+    "url": "https://santoshchoubey.com/images/awards/professional/national-2005.png",
+    "pages": [
+      "/professional-awards"
+    ],
+    "alt": ""
+  },
+  "/images/awards/professional/national-1987.png": {
+    "url": "https://santoshchoubey.com/images/awards/professional/national-1987.png",
+    "pages": [
+      "/professional-awards"
+    ],
+    "alt": ""
+  },
+  "/images/awards/professional/ashok-jain.png": {
+    "url": "https://santoshchoubey.com/images/awards/professional/ashok-jain.png",
+    "pages": [
+      "/professional-awards"
+    ],
+    "alt": ""
+  },
+  "/images/awards/professional/society-2019.png": {
+    "url": "https://santoshchoubey.com/images/awards/professional/society-2019.png",
+    "pages": [
+      "/professional-awards"
+    ],
+    "alt": ""
+  },
+  "/images/awards/professional/first-madhya-2019.png": {
+    "url": "https://santoshchoubey.com/images/awards/professional/first-madhya-2019.png",
+    "pages": [
+      "/professional-awards"
+    ],
+    "alt": ""
+  },
+  "/images/awards/professional/bihar.png": {
+    "url": "https://santoshchoubey.com/images/awards/professional/bihar.png",
+    "pages": [
+      "/professional-awards"
+    ],
+    "alt": ""
+  },
+  "/images/awards-all.png": {
+    "url": "https://santoshchoubey.com/images/awards-all.png",
+    "pages": [
+      "/professional-awards"
+    ],
+    "alt": "books"
+  },
+  "/images/awards/literature/raath-rang-mahotsav.jpg": {
+    "url": "https://santoshchoubey.com/images/awards/literature/raath-rang-mahotsav.jpg",
+    "pages": [
+      "/literature-award"
+    ],
+    "alt": ""
+  },
+  "/images/awards/literature/pandittilakrajsarma-2023.png": {
+    "url": "https://santoshchoubey.com/images/awards/literature/pandittilakrajsarma-2023.png",
+    "pages": [
+      "/literature-award"
+    ],
+    "alt": ""
+  },
+  "/images/awards/literature/manthan.png": {
+    "url": "https://santoshchoubey.com/images/awards/literature/manthan.png",
+    "pages": [
+      "/literature-award"
+    ],
+    "alt": ""
+  },
+  "/images/awards/literature/karmaveer-samman.png": {
+    "url": "https://santoshchoubey.com/images/awards/literature/karmaveer-samman.png",
+    "pages": [
+      "/literature-award"
+    ],
+    "alt": ""
+  },
+  "/images/awards/literature/national-shabd-nirantar.png": {
+    "url": "https://santoshchoubey.com/images/awards/literature/national-shabd-nirantar.png",
+    "pages": [
+      "/literature-award"
+    ],
+    "alt": ""
+  },
+  "/images/awards/literature/ati-vishisht.png": {
+    "url": "https://santoshchoubey.com/images/awards/literature/ati-vishisht.png",
+    "pages": [
+      "/literature-award"
+    ],
+    "alt": ""
+  },
+  "/images/awards/literature/mahatma-hansraj-national-award.png": {
+    "url": "https://santoshchoubey.com/images/awards/literature/mahatma-hansraj-national-award.png",
+    "pages": [
+      "/literature-award"
+    ],
+    "alt": ""
+  },
+  "/images/awards/literature/akhil-2024.png": {
+    "url": "https://santoshchoubey.com/images/awards/literature/akhil-2024.png",
+    "pages": [
+      "/literature-award"
+    ],
+    "alt": ""
+  },
+  "/images/awards/literature/centenary-indore.png": {
+    "url": "https://santoshchoubey.com/images/awards/literature/centenary-indore.png",
+    "pages": [
+      "/literature-award"
+    ],
+    "alt": ""
+  },
+  "/images/awards/literature/param-2024.png": {
+    "url": "https://santoshchoubey.com/images/awards/literature/param-2024.png",
+    "pages": [
+      "/literature-award"
+    ],
+    "alt": ""
+  },
+  "/images/awards/literature/9.png": {
+    "url": "https://santoshchoubey.com/images/awards/literature/9.png",
+    "pages": [
+      "/literature-award"
+    ],
+    "alt": ""
+  },
+  "/images/awards/literature/dushyant.png": {
+    "url": "https://santoshchoubey.com/images/awards/literature/dushyant.png",
+    "pages": [
+      "/literature-award"
+    ],
+    "alt": ""
+  },
+  "/images/awards/literature/shiv-mangal-2020.png": {
+    "url": "https://santoshchoubey.com/images/awards/literature/shiv-mangal-2020.png",
+    "pages": [
+      "/literature-award"
+    ],
+    "alt": ""
+  },
+  "/images/awards/literature/vellayofworld.png": {
+    "url": "https://santoshchoubey.com/images/awards/literature/vellayofworld.png",
+    "pages": [
+      "/literature-award"
+    ],
+    "alt": ""
+  },
+  "/images/awards/literature/sudirgh-seva-samman.png": {
+    "url": "https://santoshchoubey.com/images/awards/literature/sudirgh-seva-samman.png",
+    "pages": [
+      "/literature-award"
+    ],
+    "alt": ""
+  },
+  "/images/awards/literature/ravirang.png": {
+    "url": "https://santoshchoubey.com/images/awards/literature/ravirang.png",
+    "pages": [
+      "/literature-award"
+    ],
+    "alt": ""
+  },
+  "/images/awards/literature/draksha-ratna-2024.png": {
+    "url": "https://santoshchoubey.com/images/awards/literature/draksha-ratna-2024.png",
+    "pages": [
+      "/literature-award"
+    ],
+    "alt": ""
+  },
+  "/images/awards/literature/no-img.png": {
+    "url": "https://santoshchoubey.com/images/awards/literature/no-img.png",
+    "pages": [
+      "/literature-award"
+    ],
+    "alt": ""
+  },
+  "/images/awards/literature/sahitya-2024.png": {
+    "url": "https://santoshchoubey.com/images/awards/literature/sahitya-2024.png",
+    "pages": [
+      "/literature-award"
+    ],
+    "alt": ""
+  },
+  "/images/awards/literature/akshar2021.png": {
+    "url": "https://santoshchoubey.com/images/awards/literature/akshar2021.png",
+    "pages": [
+      "/literature-award"
+    ],
+    "alt": ""
+  },
+  "/images/awards/literature/prof-sfaq-2021.png": {
+    "url": "https://santoshchoubey.com/images/awards/literature/prof-sfaq-2021.png",
+    "pages": [
+      "/literature-award"
+    ],
+    "alt": ""
+  },
+  "/images/awards/literature/shailesh-matiyani-2017.png": {
+    "url": "https://santoshchoubey.com/images/awards/literature/shailesh-matiyani-2017.png",
+    "pages": [
+      "/literature-award"
+    ],
+    "alt": ""
+  },
+  "/images/awards/literature/abhinav-2010.png": {
+    "url": "https://santoshchoubey.com/images/awards/literature/abhinav-2010.png",
+    "pages": [
+      "/literature-award"
+    ],
+    "alt": ""
+  },
+  "/images/awards/literature/e-india.png": {
+    "url": "https://santoshchoubey.com/images/awards/literature/e-india.png",
+    "pages": [
+      "/literature-award"
+    ],
+    "alt": ""
+  },
+  "/images/awards/literature/shankar-dayal.png": {
+    "url": "https://santoshchoubey.com/images/awards/literature/shankar-dayal.png",
+    "pages": [
+      "/literature-award"
+    ],
+    "alt": ""
+  },
+  "/images/awards/literature/hazarilal-1995.png": {
+    "url": "https://santoshchoubey.com/images/awards/literature/hazarilal-1995.png",
+    "pages": [
+      "/literature-award"
+    ],
+    "alt": ""
+  },
+  "/images/awards/literature/2.png": {
+    "url": "https://santoshchoubey.com/images/awards/literature/2.png",
+    "pages": [
+      "/literature-award"
+    ],
+    "alt": ""
+  },
+  "/images/photo-gallery/vanmali-katha-samman-2026/1.webp": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/vanmali-katha-samman-2026/1.webp",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "टैगोर नाट्य महोत्सव–2026"
+  },
+  "/images/photo-gallery/sixth-national-conference/8.webp": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/sixth-national-conference/8.webp",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "वनमाली सृजन केन्द्रों का छठवाँ राष्ट्रीय सम्मेलन"
+  },
+  "/images/photo-gallery/hindi-patrakarita/1.webp": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/hindi-patrakarita/1.webp",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "टैगोर नाट्य महोत्सव–2026"
+  },
+  "/images/photo-gallery/book-launch/1.webp": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/book-launch/1.webp",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "टैगोर नाट्य महोत्सव–2026"
+  },
+  "/images/photo-gallery/vyakhyan/1.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/vyakhyan/1.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "व्याख्यान एर्व काव्यपाठ"
+  },
+  "/images/photo-gallery/vishv-pustak-mela-2026/1.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/vishv-pustak-mela-2026/1.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "व्याख्यान एर्व काव्यपाठ"
+  },
+  "/images/photo-gallery/vishwarang-bhopal-2025/1.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/vishwarang-bhopal-2025/1.jpg",
+    "pages": [
+      "/photogallery",
+      "/news"
+    ],
+    "alt": "व्याख्यान एर्व काव्यपाठ"
+  },
+  "/images/photo-gallery/vishwarang-mumbai-2025/1.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/vishwarang-mumbai-2025/1.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "व्याख्यान एर्व काव्यपाठ"
+  },
+  "/images/photo-gallery/press-conference/1.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/press-conference/1.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "व्याख्यान एर्व काव्यपाठ"
+  },
+  "/images/photo-gallery/poster-launch/1.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/poster-launch/1.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "व्याख्यान एर्व काव्यपाठ"
+  },
+  "/images/photo-gallery/garib-nawaz/1.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/garib-nawaz/1.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "व्याख्यान एर्व काव्यपाठ"
+  },
+  "/images/photo-gallery/vishwarang/2019/1.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/vishwarang/2019/1.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "व्याख्यान एर्व काव्यपाठ"
+  },
+  "/images/photo-gallery/vanmali-book/5.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/vanmali-book/5.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "Vanmali Katha"
+  },
+  "/images/photo-gallery/jal-tarang/1.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/jal-tarang/1.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "व्याख्यान एर्व काव्यपाठ"
+  },
+  "/images/photo-gallery/shabd-dhwani-drashya/3.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/shabd-dhwani-drashya/3.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "Shabd Dhwani Drashya"
+  },
+  "/images/photo-gallery/nau-binduon-ka-khel/4.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/nau-binduon-ka-khel/4.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "Nau Binduon Ka Khel"
+  },
+  "/images/photo-gallery/electroniki-aapke-liya/8.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/electroniki-aapke-liya/8.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "Electroniki Aapke Liya"
+  },
+  "/images/photo-gallery/vigyan-parv/2.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/vigyan-parv/2.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "Vigyan Parv"
+  },
+  "/images/photo-gallery/srjan-parv/1.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/srjan-parv/1.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "व्याख्यान एर्व काव्यपाठ"
+  },
+  "/images/photogellery/photogellery18.jpg": {
+    "url": "https://santoshchoubey.com/images/photogellery/photogellery18.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "Srjan Parv"
+  },
+  "/images/photogellery/photogellery21.jpg": {
+    "url": "https://santoshchoubey.com/images/photogellery/photogellery21.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "Loktarang"
+  },
+  "/images/photo-gallery/pustakyatra/13.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/pustakyatra/13.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "Pustak Yatra"
+  },
+  "/images/photo-gallery/ityatra/1.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/ityatra/1.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "व्याख्यान एर्व काव्यपाठ"
+  },
+  "/images/photo-gallery/legallitracy/1.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/legallitracy/1.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "व्याख्यान एर्व काव्यपाठ"
+  },
+  "/images/photo-gallery/sixteenthbirthday/1.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/sixteenthbirthday/1.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "व्याख्यान एर्व काव्यपाठ"
+  },
+  "/images/photo-gallery/womenachiverssumit/1.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/womenachiverssumit/1.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "व्याख्यान एर्व काव्यपाठ"
+  },
+  "/images/photo-gallery/kaushal-vikas-yatra/1.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/kaushal-vikas-yatra/1.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "व्याख्यान एर्व काव्यपाठ"
+  },
+  "/images/photo-gallery/unstoppable/1.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/unstoppable/1.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "व्याख्यान एर्व काव्यपाठ"
+  },
+  "/images/photo-gallery/indira-suchna-shakti-yojna/3.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/indira-suchna-shakti-yojna/3.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "Shabd Dhwani Drashya"
+  },
+  "/images/photo-gallery/digitalinadia/2.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/digitalinadia/2.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "Vigyan Parv"
+  },
+  "/images/photo-gallery/dignitaries/2.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/dignitaries/2.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "Vigyan Parv"
+  },
+  "/images/photo-gallery/antarlaya/9.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/antarlaya/9.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "Antarlaya"
+  },
+  "/images/photo-gallery/north-east/1.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/north-east/1.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "व्याख्यान एर्व काव्यपाठ"
+  },
+  "/images/photo-gallery/pmkk/2.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/pmkk/2.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "Vigyan Parv"
+  },
+  "/images/photo-gallery/pravasi-sahityakar/1.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/pravasi-sahityakar/1.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "व्याख्यान एर्व काव्यपाठ"
+  },
+  "/images/photo-gallery/raman-lok-kala-mahotsav/1.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/raman-lok-kala-mahotsav/1.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "व्याख्यान एर्व काव्यपाठ"
+  },
+  "/images/photo-gallery/rashtriya-jansampark-divas/1.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/rashtriya-jansampark-divas/1.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "व्याख्यान एर्व काव्यपाठ"
+  },
+  "/images/photo-gallery/phythm-2023/1.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/phythm-2023/1.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "व्याख्यान एर्व काव्यपाठ"
+  },
+  "/images/photo-gallery/sgsy/1.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/sgsy/1.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "व्याख्यान एर्व काव्यपाठ"
+  },
+  "/images/photo-gallery/sharad-vyakhyan-mala/1.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/sharad-vyakhyan-mala/1.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "व्याख्यान एर्व काव्यपाठ"
+  },
+  "/images/photo-gallery/shodh-shikhar-vigyan-parv/1.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/shodh-shikhar-vigyan-parv/1.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "व्याख्यान एर्व काव्यपाठ"
+  },
+  "/images/photo-gallery/supar-nova-ka-rahasy/1.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/supar-nova-ka-rahasy/1.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "व्याख्यान एर्व काव्यपाठ"
+  },
+  "/images/photo-gallery/university-aisect/1.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/university-aisect/1.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "व्याख्यान एर्व काव्यपाठ"
+  },
+  "/images/photo-gallery/university-cvru-bihar/1.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/university-cvru-bihar/1.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "व्याख्यान एर्व काव्यपाठ"
+  },
+  "/images/photo-gallery/university-cvru-cg/1.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/university-cvru-cg/1.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "व्याख्यान एर्व काव्यपाठ"
+  },
+  "/images/photo-gallery/university-cvru-mp/1.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/university-cvru-mp/1.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "व्याख्यान एर्व काव्यपाठ"
+  },
+  "/images/photo-gallery/university-rntu/1.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/university-rntu/1.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "व्याख्यान एर्व काव्यपाठ"
+  },
+  "/images/photo-gallery/university-sgsu/1.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/university-sgsu/1.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "व्याख्यान एर्व काव्यपाठ"
+  },
+  "/images/photo-gallery/valley-of-worlds/1.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/valley-of-worlds/1.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "व्याख्यान एर्व काव्यपाठ"
+  },
+  "/images/photo-gallery/vishwarang-pustak-yatra/1.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/vishwarang-pustak-yatra/1.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "व्याख्यान एर्व काव्यपाठ"
+  },
+  "/images/photo-gallery/world-book-fair/1.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/world-book-fair/1.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "व्याख्यान एर्व काव्यपाठ"
+  },
+  "/images/photo-gallery/world-education-summit-dubai/1.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/world-education-summit-dubai/1.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "व्याख्यान एर्व काव्यपाठ"
+  },
+  "/images/photo-gallery/world-skills-india/9.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/world-skills-india/9.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "Antarlaya"
+  },
+  "/images/photo-gallery/yuva-utsav/6.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/yuva-utsav/6.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "Yuva Utsav"
+  },
+  "/images/photo-gallery/aic-rntu/1.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/aic-rntu/1.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "व्याख्यान एर्व काव्यपाठ"
+  },
+  "/images/photo-gallery/bharatvikram/1.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/bharatvikram/1.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "व्याख्यान एर्व काव्यपाठ"
+  },
+  "/images/photo-gallery/bharopiya-hindi-mahotsav-landan/6.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/bharopiya-hindi-mahotsav-landan/6.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "Yuva Utsav"
+  },
+  "/images/photo-gallery/bhopal-literature-festival/6.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/bhopal-literature-festival/6.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "Yuva Utsav"
+  },
+  "/images/photo-gallery/chanakya-varta/2.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/chanakya-varta/2.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "Vigyan Parv"
+  },
+  "/images/photo-gallery/computer-ek-parichay-lokarpan/9.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/computer-ek-parichay-lokarpan/9.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "Antarlaya"
+  },
+  "/images/photo-gallery/daksh-ratna-alankaran/4.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/daksh-ratna-alankaran/4.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "Nau Binduon Ka Khel"
+  },
+  "/images/photo-gallery/dakshin-bhartiya-hindi-sahitya-sammelan/1.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/dakshin-bhartiya-hindi-sahitya-sammelan/1.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "व्याख्यान एर्व काव्यपाठ"
+  },
+  "/images/photo-gallery/geet-gajal-gosthi/1.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/geet-gajal-gosthi/1.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "व्याख्यान एर्व काव्यपाठ"
+  },
+  "/images/photo-gallery/hindi-bhasa-samman-alankaran/1.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/hindi-bhasa-samman-alankaran/1.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "व्याख्यान एर्व काव्यपाठ"
+  },
+  "/images/photo-gallery/international-regional-hindi-conference/3.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/international-regional-hindi-conference/3.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "Shabd Dhwani Drashya"
+  },
+  "/images/photo-gallery/kadambari/1.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/kadambari/1.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "व्याख्यान एर्व काव्यपाठ"
+  },
+  "/images/photo-gallery/kahani-path/1.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/kahani-path/1.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "व्याख्यान एर्व काव्यपाठ"
+  },
+  "/images/photo-gallery/katha-madhya-pradesh/2.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/katha-madhya-pradesh/2.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "Vigyan Parv"
+  },
+  "/images/photo-gallery/madhya-pradesh-sahitya-utsav/1.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/madhya-pradesh-sahitya-utsav/1.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "व्याख्यान एर्व काव्यपाठ"
+  },
+  "/images/photo-gallery/national-conference-digital-india/3.jpg": {
+    "url": "https://santoshchoubey.com/images/photo-gallery/national-conference-digital-india/3.jpg",
+    "pages": [
+      "/photogallery"
+    ],
+    "alt": "Shabd Dhwani Drashya"
+  },
+  "/images/cliping/2026/115.webp": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/115.webp",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/116.webp": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/116.webp",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/117.webp": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/117.webp",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/118.webp": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/118.webp",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/119.webp": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/119.webp",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/120.webp": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/120.webp",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/121.webp": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/121.webp",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/122.webp": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/122.webp",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/123.webp": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/123.webp",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/124.webp": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/124.webp",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/125.webp": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/125.webp",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/126.webp": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/126.webp",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/127.webp": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/127.webp",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/114.png": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/114.png",
+    "pages": [
+      "/news"
+    ],
+    "alt": "समकालीन हिन्दी पत्रकारिता: परम्परा, परिवर्तन और भविष्य"
+  },
+  "/images/cliping/2026/113.webp": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/113.webp",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/112.webp": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/112.webp",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/111.webp": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/111.webp",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/110.webp": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/110.webp",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/109.webp": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/109.webp",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/108.webp": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/108.webp",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/107.webp": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/107.webp",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/106.webp": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/106.webp",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/99.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/99.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/100.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/100.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/101.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/101.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/102.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/102.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/103.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/103.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/104.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/104.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/105.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/105.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/85.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/85.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/86.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/86.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/87.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/87.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/88.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/88.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/89.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/89.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/90.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/90.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/91.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/91.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/92.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/92.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/93.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/93.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/94.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/94.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/95.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/95.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/96.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/96.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/97.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/97.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/98.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/98.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/news/nalanda.webp": {
+    "url": "https://santoshchoubey.com/images/news/nalanda.webp",
+    "pages": [
+      "/news"
+    ],
+    "alt": "आज प्रतिष्ठित नालंदा विश्वविद्यालय के कुलगुरु"
+  },
+  "/images/cliping/2026/79.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/79.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/80.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/80.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/81.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/81.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/82.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/82.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/83.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/83.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/84.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/84.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/70.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/70.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/71.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/71.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/72.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/72.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/73.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/73.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/74.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/74.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/75.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/75.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/76.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/76.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/77.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/77.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/78.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/78.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/news/lokaarpan.webp": {
+    "url": "https://santoshchoubey.com/images/news/lokaarpan.webp",
+    "pages": [
+      "/news"
+    ],
+    "alt": "पुस्तक लोकार्पण समारोह"
+  },
+  "/images/cliping/2026/62.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/62.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/63.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/63.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/64.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/64.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/65.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/65.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/66.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/66.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/67.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/67.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/68.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/68.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/69.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/69.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/news/samarth.png": {
+    "url": "https://santoshchoubey.com/images/news/samarth.png",
+    "pages": [
+      "/news"
+    ],
+    "alt": "भोपाल में 5वां समर्थ भारत कॉन्क्लेव संपन्न"
+  },
+  "/images/cliping/2026/55.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/55.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/56.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/56.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/57.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/57.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/58.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/58.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/59.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/59.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/60.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/60.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/61.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/61.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/news/national-word.png": {
+    "url": "https://santoshchoubey.com/images/news/national-word.png",
+    "pages": [
+      "/news"
+    ],
+    "alt": "राष्ट्रीय शबद निरंतर सम्मान–2026 से सम्मानित हुए श्री संतोष चौबे"
+  },
+  "/images/cliping/2026/44.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/44.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/45.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/45.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/46.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/46.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/47.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/47.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/48.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/48.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/49.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/49.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/50.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/50.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/51.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/51.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/52.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/52.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/53.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/53.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/54.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/54.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/news/language.png": {
+    "url": "https://santoshchoubey.com/images/news/language.png",
+    "pages": [
+      "/news"
+    ],
+    "alt": "अंग्रेजी एवं विदेशी भाषा केन्द्रीय विश्वविद्यालय (इफ्लू) हैदराबाद एवं रबीन्द्रनाथ टैगोर विश्वविद्यालय, भोपाल के संयुक्त तत्वावधान में राष्ट्रीय संगोष्ठी का आयोजन"
+  },
+  "/images/cliping/2026/43.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/43.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": "पुस्तक विमोचन एवं चर्चा"
+  },
+  "/images/cliping/2026/42.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/42.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": "व्याख्यान एर्व काव्यपाठ"
+  },
+  "/images/cliping/2026/38.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/38.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/39.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/39.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/40.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/40.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/41.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/41.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/27.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/27.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/28.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/28.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/29.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/29.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/30.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/30.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/31.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/31.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/32.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/32.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/33.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/33.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/34.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/34.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/35.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/35.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/36.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/36.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/37.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/37.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/news/raashtreey-yuva-divas.jpg": {
+    "url": "https://santoshchoubey.com/images/news/raashtreey-yuva-divas.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": "राष्ट्रीय युवा दिवस के अवसर पर, विज्ञान भवन, नई दिल्ली के मुख्य सभागार में आयोजित हंसराज कॉलेज,"
+  },
+  "/images/cliping/2026/9.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/9.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/10.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/10.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/11.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/11.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/12.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/12.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/13.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/13.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/14.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/14.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/15.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/15.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/16.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/16.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/17.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/17.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/18.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/18.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/19.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/19.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/20.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/20.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/21.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/21.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/23.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/23.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/24.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/24.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/25.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/25.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/26.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/26.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/news/trteey-antararaashtreey.jpg": {
+    "url": "https://santoshchoubey.com/images/news/trteey-antararaashtreey.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": "तृतीय अंतरराष्ट्रीय भारतीय भाषा सम्मेलन | नई दिल्ली"
+  },
+  "/images/news/vishv-pustak-mela.jpg": {
+    "url": "https://santoshchoubey.com/images/news/vishv-pustak-mela.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": "विश्व पुस्तक मेला 2026 में साहित्य का विशेष संगम"
+  },
+  "/images/cliping/2026/1.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/1.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/2.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/2.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/3.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/3.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/4.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/4.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/5.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/5.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/6.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/6.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/7.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/7.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2026/8.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2026/8.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/68.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/68.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/69.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/69.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/70.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/70.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/71.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/71.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/72.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/72.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/73.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/73.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/74.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/74.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/75.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/75.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/76.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/76.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/77.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/77.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/78.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/78.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/79.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/79.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/80.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/80.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/81.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/81.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/82.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/82.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/83.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/83.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/84.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/84.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/Santosh_AISECT_1765348066394_1765348070805.png": {
+    "url": "https://santoshchoubey.com/images/Santosh_AISECT_1765348066394_1765348070805.png",
+    "pages": [
+      "/news"
+    ],
+    "alt": "The technologist who sold 2 million books in Hindi says language is India’s next skill"
+  },
+  "/images/news/raath-rang-mahotsav.jpg": {
+    "url": "https://santoshchoubey.com/images/news/raath-rang-mahotsav.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": "राठ रंग महोत्सव साझा संसार फाउंडेशन"
+  },
+  "/images/news/vishwarang-2025.webp": {
+    "url": "https://santoshchoubey.com/images/news/vishwarang-2025.webp",
+    "pages": [
+      "/news"
+    ],
+    "alt": "चार दिवसीय विश्वरंग 2025 का हुआ समापन"
+  },
+  "/images/news/doordarshan.jpg": {
+    "url": "https://santoshchoubey.com/images/news/doordarshan.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": "कहानी संग्रह "
+  },
+  "/images/news/vishwa-rang.jpg": {
+    "url": "https://santoshchoubey.com/images/news/vishwa-rang.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": "विश्व रंग टैगोर अंतरराष्ट्रीय साहित्य एवं कला महोत्सव"
+  },
+  "/images/news/vishwarang-which.jpg": {
+    "url": "https://santoshchoubey.com/images/news/vishwarang-which.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": "हिंदी और भारतीय भाषाओं के साथ साहित्य और कलाओं को केंद्रीयता प्रदान करता विश्वरंग"
+  },
+  "/images/cliping/2025/67.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/67.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/60.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/60.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/65.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/65.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/62.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/62.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/63.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/63.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/64.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/64.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/61.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/61.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/66.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/66.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/55.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/55.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/57.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/57.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/59.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/59.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/58.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/58.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/56.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/56.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/49.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/49.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/50.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/50.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/51.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/51.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/52.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/52.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/53.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/53.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/54.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/54.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/48.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/48.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/40.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/40.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/41.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/41.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/42.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/42.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/43.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/43.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/44.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/44.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/45.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/45.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/46.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/46.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/47.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/47.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/news/lanka1.jpg": {
+    "url": "https://santoshchoubey.com/images/news/lanka1.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": "विश्व रंग 2025 श्रीलंका प्रेस कॉन्फ्रेंस"
+  },
+  "/images/news/gomti1.jpg": {
+    "url": "https://santoshchoubey.com/images/news/gomti1.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": "गोमती पुस्तक महोत्सव लखनऊ"
+  },
+  "/images/news/press.jpg": {
+    "url": "https://santoshchoubey.com/images/news/press.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": "हिंदी का वैश्विक उत्सव — विश्व रंग अंतरराष्ट्रीय हिंदी ओलंपियाड"
+  },
+  "/images/cliping/2025/1.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/1.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/2.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/2.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/3.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/3.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/4.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/4.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/5.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/5.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/6.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/6.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/7.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/7.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/8.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/8.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/9.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/9.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/10.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/10.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/11.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/11.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/12.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/12.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/13.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/13.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/14.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/14.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/15.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/15.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/16.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/16.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/17.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/17.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/18.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/18.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/19.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/19.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/20.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/20.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/21.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/21.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/22.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/22.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/23.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/23.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/24.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/24.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/25.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/25.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/26.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/26.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/27.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/27.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/28.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/28.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/29.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/29.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/30.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/30.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/31.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/31.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2025/32.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/2025/32.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/news/garib-nawaz.jpeg": {
+    "url": "https://santoshchoubey.com/images/news/garib-nawaz.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": "ग़रीबनवाज़। काम—रूहों को जगाना"
+  },
+  "/images/news/1.jpeg": {
+    "url": "https://santoshchoubey.com/images/news/1.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/news/2.jpeg": {
+    "url": "https://santoshchoubey.com/images/news/2.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/akar.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/akar.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/empowering1.png": {
+    "url": "https://santoshchoubey.com/images/empowering1.png",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/new1.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/new1.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/new5.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/new5.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/new6.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/new6.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/new2.jpeg": {
+    "url": "https://santoshchoubey.com/images/cliping/new2.jpeg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/new3.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/new3.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/new4.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/new4.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/484854830_1185951999753900_1580893871879886453_n.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/484854830_1185951999753900_1580893871879886453_n.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/485684197_1186288889720211_4231708127009276102_n.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/485684197_1186288889720211_4231708127009276102_n.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/clearmist.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/clearmist.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/Dainik%20Aamsabha.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/Dainik%20Aamsabha.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/dainik%20bhaskar.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/dainik%20bhaskar.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/dainik%20jagran.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/dainik%20jagran.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/haribhoomi.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/haribhoomi.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/img1.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/img1.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/jagran.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/jagran.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/kalam%20sankalp.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/kalam%20sankalp.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/lokswar%20media%20network.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/lokswar%20media%20network.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/madhya%20swadesh.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/madhya%20swadesh.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/Naidunia.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/Naidunia.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/Navbharat.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/Navbharat.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/Navdunia.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/Navdunia.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/news.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/news.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/peoples%20samachar.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/peoples%20samachar.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/pradesh%20today.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/pradesh%20today.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/subah%20savere.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/subah%20savere.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/swadesh.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/swadesh.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/the%20pioneer.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/the%20pioneer.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/487073052_1244238667609752_3144789112636481055_n.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/487073052_1244238667609752_3144789112636481055_n.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/interview.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/interview.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/hitavada.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/hitavada.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/raj%20express.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/raj%20express.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/raj%20express2.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/raj%20express2.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/star%20samachar.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/star%20samachar.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/476839555_3940115549599269_9082651930334609640_n.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/476839555_3940115549599269_9082651930334609640_n.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/bhaskar.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/bhaskar.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/patrika.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/patrika.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/img2.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/img2.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/img3.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/img3.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/img4.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/img4.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/santosh%20choubey%20sir%20write%20up.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/santosh%20choubey%20sir%20write%20up.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2019-2.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2019-2.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/article.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/article.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/cover.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/cover.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/img5.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/img5.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2015-1.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2015-1.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2015-2.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2015-2.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2015-3.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2015-3.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2015-4.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2015-4.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2015-5.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2015-5.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2015-6.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2015-6.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2015-7.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2015-7.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2015-8.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2015-8.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2014-1.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2014-1.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2014-2.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2014-2.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2014-3.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2014-3.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2014-4.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2014-4.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2014-5.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2014-5.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2014-6.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2014-6.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2014-7.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2014-7.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2014-8.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2014-8.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2013-1.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2013-1.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2013-2.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2013-2.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2013-3.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2013-3.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2013-4.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2013-4.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2013-5.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2013-5.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2013-6.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2013-6.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2013-7.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2013-7.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2013-8.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2013-8.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2012-1.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2012-1.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2012-2.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2012-2.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2012-3.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2012-3.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2012-4.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2012-4.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2012-5.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2012-5.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2012-6.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2012-6.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2012-7.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2012-7.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2012-8.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2012-8.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2011-1.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2011-1.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2011-2.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2011-2.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2011-3.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2011-3.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2011-4.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2011-4.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2011-5.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2011-5.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2011-6.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2011-6.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2011-7.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2011-7.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2011-8.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2011-8.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2008-1.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2008-1.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2008-2.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2008-2.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2007-1.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2007-1.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2007-2.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2007-2.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/cliping/2007-3.jpg": {
+    "url": "https://santoshchoubey.com/images/cliping/2007-3.jpg",
+    "pages": [
+      "/news"
+    ],
+    "alt": ""
+  },
+  "/images/video/23.webp": {
+    "url": "https://santoshchoubey.com/images/video/23.webp",
+    "pages": [
+      "/video"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/video/24.png": {
+    "url": "https://santoshchoubey.com/images/video/24.png",
+    "pages": [
+      "/video"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/video/25.png": {
+    "url": "https://santoshchoubey.com/images/video/25.png",
+    "pages": [
+      "/video"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/video/26.png": {
+    "url": "https://santoshchoubey.com/images/video/26.png",
+    "pages": [
+      "/video"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/video/27.png": {
+    "url": "https://santoshchoubey.com/images/video/27.png",
+    "pages": [
+      "/video"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/video/28.png": {
+    "url": "https://santoshchoubey.com/images/video/28.png",
+    "pages": [
+      "/video"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/video/6.png": {
+    "url": "https://santoshchoubey.com/images/video/6.png",
+    "pages": [
+      "/video"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/video/7.png": {
+    "url": "https://santoshchoubey.com/images/video/7.png",
+    "pages": [
+      "/video"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/video/8.png": {
+    "url": "https://santoshchoubey.com/images/video/8.png",
+    "pages": [
+      "/video"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/video/9.png": {
+    "url": "https://santoshchoubey.com/images/video/9.png",
+    "pages": [
+      "/video"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/video/10.png": {
+    "url": "https://santoshchoubey.com/images/video/10.png",
+    "pages": [
+      "/video"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/video/11.png": {
+    "url": "https://santoshchoubey.com/images/video/11.png",
+    "pages": [
+      "/video"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/video/12.png": {
+    "url": "https://santoshchoubey.com/images/video/12.png",
+    "pages": [
+      "/video"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/video/13.png": {
+    "url": "https://santoshchoubey.com/images/video/13.png",
+    "pages": [
+      "/video"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/video/14.png": {
+    "url": "https://santoshchoubey.com/images/video/14.png",
+    "pages": [
+      "/video"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/video/15.png": {
+    "url": "https://santoshchoubey.com/images/video/15.png",
+    "pages": [
+      "/video"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/video/16.png": {
+    "url": "https://santoshchoubey.com/images/video/16.png",
+    "pages": [
+      "/video"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/video/17.png": {
+    "url": "https://santoshchoubey.com/images/video/17.png",
+    "pages": [
+      "/video"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/video/18.png": {
+    "url": "https://santoshchoubey.com/images/video/18.png",
+    "pages": [
+      "/video"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/video/19.png": {
+    "url": "https://santoshchoubey.com/images/video/19.png",
+    "pages": [
+      "/video"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/video/20.png": {
+    "url": "https://santoshchoubey.com/images/video/20.png",
+    "pages": [
+      "/video"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/video/31.png": {
+    "url": "https://santoshchoubey.com/images/video/31.png",
+    "pages": [
+      "/video"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/video/32.png": {
+    "url": "https://santoshchoubey.com/images/video/32.png",
+    "pages": [
+      "/video"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/video/33.png": {
+    "url": "https://santoshchoubey.com/images/video/33.png",
+    "pages": [
+      "/video"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/video/34.png": {
+    "url": "https://santoshchoubey.com/images/video/34.png",
+    "pages": [
+      "/video"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/video/35.png": {
+    "url": "https://santoshchoubey.com/images/video/35.png",
+    "pages": [
+      "/video"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/video/36.png": {
+    "url": "https://santoshchoubey.com/images/video/36.png",
+    "pages": [
+      "/video"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/video/37.png": {
+    "url": "https://santoshchoubey.com/images/video/37.png",
+    "pages": [
+      "/video"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/video/38.png": {
+    "url": "https://santoshchoubey.com/images/video/38.png",
+    "pages": [
+      "/video"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/video/39.png": {
+    "url": "https://santoshchoubey.com/images/video/39.png",
+    "pages": [
+      "/video"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/video/40.png": {
+    "url": "https://santoshchoubey.com/images/video/40.png",
+    "pages": [
+      "/video"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/video/41.png": {
+    "url": "https://santoshchoubey.com/images/video/41.png",
+    "pages": [
+      "/video"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/video/42.png": {
+    "url": "https://santoshchoubey.com/images/video/42.png",
+    "pages": [
+      "/video"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/video/43.png": {
+    "url": "https://santoshchoubey.com/images/video/43.png",
+    "pages": [
+      "/video"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/video/44.png": {
+    "url": "https://santoshchoubey.com/images/video/44.png",
+    "pages": [
+      "/video"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/video/45.png": {
+    "url": "https://santoshchoubey.com/images/video/45.png",
+    "pages": [
+      "/video"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/video/46.png": {
+    "url": "https://santoshchoubey.com/images/video/46.png",
+    "pages": [
+      "/video"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/video/47.png": {
+    "url": "https://santoshchoubey.com/images/video/47.png",
+    "pages": [
+      "/video"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/video/48.png": {
+    "url": "https://santoshchoubey.com/images/video/48.png",
+    "pages": [
+      "/video"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/video/49.png": {
+    "url": "https://santoshchoubey.com/images/video/49.png",
+    "pages": [
+      "/video"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/video/50.png": {
+    "url": "https://santoshchoubey.com/images/video/50.png",
+    "pages": [
+      "/video"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/video/51.png": {
+    "url": "https://santoshchoubey.com/images/video/51.png",
+    "pages": [
+      "/video"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/video/52.png": {
+    "url": "https://santoshchoubey.com/images/video/52.png",
+    "pages": [
+      "/video"
+    ],
+    "alt": "Thumb"
+  },
+  "/images/video/56.png": {
+    "url": "https://santoshchoubey.com/images/video/56.png",
+    "pages": [
+      "/video"
+    ],
+    "alt": "Thumb"
+  }
+}

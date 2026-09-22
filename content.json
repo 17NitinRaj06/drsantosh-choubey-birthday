@@ -1,0 +1,569 @@
+{
+  "person": {
+    "name": "Santosh Choubey",
+    "hindiName": "संतोष चौबे",
+    "birthDate": "1955-09-22",
+    "birthPlace": "Khandwa, Madhya Pradesh",
+    "birthdayDate": "2026-09-22",
+    "ageTurning": 71,
+    "title": "Founder and Chairman, AISECT Group",
+    "chancellor": "Chancellor, AISECT Group of Universities",
+    "education": "B.E. Electronics & Communication Engineering, MANIT (NIT), Bhopal",
+    "marriedTo": "Smt. Vinita Choubey",
+    "father": "Late Shri Jagannath Prasad Choubey",
+    "mother": "Late Smt. Sharda Choubey",
+    "son": "Siddharth Chaturvedi (Daughter-in-law: Pallavi Rao Chaturvedi)",
+    "daughter": "Aditi Chaturvedi (Son-in-law: Nitin Vats)",
+    "facebook": "https://www.facebook.com/ChoubeySantosh16/"
+  },
+  "factCheck": {
+    "siteSaysBorn": "22 September 1955 at Khandwa, Madhya Pradesh",
+    "confirmedBy": "User-provided facts match: BIRTH_DATE=1955-09-22, BIRTH_PLACE=Khandwa",
+    "discrepancy": "None - confirmed facts match the website"
+  },
+  "timeline": [
+    {
+      "year": 1955,
+      "devanagari": "१९५५",
+      "title": "Born in Khandwa",
+      "hindiTitle": "क्षंडवा में जन्म",
+      "text": "Mr. J.P. Chaubey and Mrs. Sharda Chaubey were blessed with a son on 22nd September, 1955 at Khandwa, Madhya Pradesh, India.",
+      "image": "/images/history31.webp",
+      "imageAlt": "Mr. J.P. Chaubey and Mrs. Sharda Chaubey",
+      "source": "/journey"
+    },
+    {
+      "year": 1971,
+      "devanagari": "१९७१",
+      "title": "Selected for B.E. at MANIT, Bhopal",
+      "hindiTitle": "MANIT भोपाल में चयन",
+      "text": "Selected for Bachelor of Engineering (Electronics & Communication Engineering) at Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh.",
+      "image": null,
+      "source": "/journey"
+    },
+    {
+      "year": 1977,
+      "devanagari": "१९७७",
+      "title": "Selected in Indian Engineering Services",
+      "hindiTitle": "भारतीय अभियांत्रिकी सेवा में चयन",
+      "text": "Achieved the remarkable milestone of being selected in the Indian Engineering Services. Later also selected for Indian Civil Services but chose to walk a different path.",
+      "image": "/images/history27.webp",
+      "imageAlt": "Research Engineer to Civil Services",
+      "source": "/journey"
+    },
+    {
+      "year": 1985,
+      "devanagari": "१९८५",
+      "title": "Founded AISECT",
+      "hindiTitle": "AISECT की स्थापना",
+      "text": "Founded AISECT (All India Society for Electronics and Computer Technology) with a bold mission to bridge the digital and knowledge divide between India's cities and its villages.",
+      "image": "/images/history22.webp",
+      "imageAlt": "All India Society for Electronics and Computer Technology AISECT",
+      "source": "/journey"
+    },
+    {
+      "year": 1986,
+      "devanagari": "१९८६",
+      "title": "First Book on Computers in Hindi & Meghnad Saha Award",
+      "hindiTitle": "कंप्यूटर पर पहली हिंदी पुस्तक",
+      "text": "Published first book on Computers in Hindi titled 'कंप्यूटर एक परिचय'. Won the Meghnad Saha Award for Science Writing.",
+      "image": "/images/history21.webp",
+      "imageAlt": "A STEP TOWARDS THE PROMOTION OF COMPUTER SKILL",
+      "source": "/journey"
+    },
+    {
+      "year": 1987,
+      "devanagari": "१९८७",
+      "title": "National Award for Science Communication",
+      "hindiTitle": "विज्ञान संचार हेतु राष्ट्रीय पुरस्कार",
+      "text": "Received National Award for Science Communication.",
+      "image": null,
+      "source": "/professional-awards"
+    },
+    {
+      "year": 1989,
+      "devanagari": "१९८९",
+      "title": "Launched Electroniki Magazine",
+      "hindiTitle": "इलेक्ट्रोनिकी पत्रिका का शुभारंभ",
+      "text": "The first Indian magazine on electronics and computers in Hindi launched. It has been published continuously for over 35 years and has won many accolades.",
+      "image": "/images/1989.webp",
+      "imageAlt": "Electroniki",
+      "source": "/journey"
+    },
+    {
+      "year": 1990,
+      "devanagari": "१९९०",
+      "title": "Literacy Campaigns Begin",
+      "hindiTitle": "साक्षरता अभियान",
+      "text": "Played a pivotal role in promoting literacy through campaigns and art forms in undivided Madhya Pradesh.",
+      "image": "/images/history20.webp",
+      "imageAlt": "Transforming Minds through Education",
+      "source": "/journey"
+    },
+    {
+      "year": 1991,
+      "devanagari": "१९९१",
+      "title": "Vanmali Srijan Peeth Established",
+      "hindiTitle": "वनमाली सृजन पीठ की स्थापना",
+      "text": "Vanmali Srijan Peeth and Vanmali Srijan Kendras established as a grassroots level literary and cultural initiative. Over 114 VSKs now promote local arts and culture.",
+      "image": "/images/vanmalisrijanpeeth.webp",
+      "imageAlt": "Vanmali Srujanpeeth, Bhopal, M.P",
+      "source": "/journey"
+    },
+    {
+      "year": 1992,
+      "devanagari": "१९९२",
+      "title": "Indian Literacy Movement",
+      "hindiTitle": "भारतीय साक्षरता आंदोलन",
+      "text": "Made leading contribution in Indian literacy movement through the Literacy Campaigns in undivided Madhya Pradesh. Used art forms for promotion of Science and Literacy in rural areas.",
+      "image": "/images/history19.webp",
+      "imageAlt": "Literacy Campaigns",
+      "source": "/journey"
+    },
+    {
+      "year": 1995,
+      "devanagari": "१९९५",
+      "title": "Honored as Core Group of Dept. of Science & Technology",
+      "hindiTitle": "विज्ञान एवं प्रौद्योगिकी विभाग के कोर ग्रुप में सम्मान",
+      "text": "The society established by Santosh, SECT was honored as the Core Group of Department of Science and Technology, Govt. of India under his able leadership for 10 years.",
+      "image": "/images/history18.webp",
+      "imageAlt": "Honored as the Core Group of Department of Science and Technology, Govt. of India",
+      "source": "/journey"
+    },
+    {
+      "year": 1999,
+      "devanagari": "१९९९",
+      "title": "Acknowledged by World Bank and IIM-A",
+      "hindiTitle": "विश्व बैंक और IIM-A द्वारा मान्यता",
+      "text": "AISECT evolved its own Multipurpose IT Centre model for the first time to cater rural and semi urban milieu, acknowledged and published in IIM-Ahmedabad and World Bank Report.",
+      "image": "/images/history16.webp",
+      "imageAlt": "Acknowledged by the World Bank and IIMA",
+      "source": "/journey"
+    },
+    {
+      "year": 2000,
+      "devanagari": "२०००",
+      "title": "IT Yatras",
+      "hindiTitle": "आईटी यात्राएँ",
+      "text": "I.T. Yatras conducted in Madhya Pradesh, Maharashtra and Chhattisgarh.",
+      "image": "/images/it-yatras.webp",
+      "imageAlt": "IT Yatras",
+      "source": "/journey"
+    },
+    {
+      "year": 2005,
+      "devanagari": "२००५",
+      "title": "Indian Innovation Award from Dr. Kalam",
+      "hindiTitle": "डॉ. कलाम से भारतीय नवप्रवर्तन पुरस्कार",
+      "text": "AISECT became a leading IT Training and Services Network in India, receiving the Indian Innovation Award from the then President of India, Dr. A.P.J. Abdul Kalam.",
+      "image": "/images/history14.webp",
+      "imageAlt": "How AISECT Won the Indian Innovation Award from Dr. Kalam",
+      "source": "/journey"
+    },
+    {
+      "year": 2006,
+      "devanagari": "२००६",
+      "title": "NASSCOM I.T. Innovation Award & CVRU Bilaspur",
+      "hindiTitle": "नासकॉम आईटी नवप्रवर्तन पुरस्कार",
+      "text": "AISECT gets the NASSCOM I.T. Innovation Award from Dr. A.P.J. Abdul Kalam. Dr. C.V. Raman University established in Bilaspur, C.G.",
+      "image": "/images/2006.webp",
+      "imageAlt": "NASSCOM I.T. Innovation Award",
+      "source": "/journey"
+    },
+    {
+      "year": 2008,
+      "devanagari": "२००८",
+      "title": "5000+ IT Kiosks at Grassroots",
+      "hindiTitle": "5000 से अधिक आईटी कियोस्क",
+      "text": "AISECT participated as a leading Service Centre Agency in the Common Service Centre Project and established more than 5000 CSCs at Gram Panchayats.",
+      "image": "/images/history12.webp",
+      "imageAlt": "AISECT Set Up Over 5000 IT Kiosks at the Grassroots Level",
+      "source": "/journey"
+    },
+    {
+      "year": 2010,
+      "devanagari": "२०१०",
+      "title": "Rabindranath Tagore University Established",
+      "hindiTitle": "रबीन्द्रनाथ टैगोर विश्वविद्यालय की स्थापना",
+      "text": "RNTU, established in 2010, is the 1st private university in central India in an underdeveloped district of Raisen. It imbibes cultural values of Gurudev Rabindranath Tagore.",
+      "image": "/images/rntu-inogration.webp",
+      "imageAlt": "Rabindranath Tagore University, Raisen, M.P.",
+      "source": "/journey"
+    },
+    {
+      "year": 2012,
+      "devanagari": "२०१२",
+      "title": "Financial Inclusion Network",
+      "hindiTitle": "वित्तीय समावेशन नेटवर्क",
+      "text": "AISECT became a prominent Financial Inclusion Network in India, engaging in BF, BC, and UID activities with leading banks.",
+      "image": "/images/history8.webp",
+      "imageAlt": "Transforming Banking Services",
+      "source": "/journey"
+    },
+    {
+      "year": 2016,
+      "devanagari": "२०१६",
+      "title": "AISECT University, Hazaribagh",
+      "hindiTitle": "AISECT विश्वविद्यालय, हजारीबाग",
+      "text": "AISECT University was established in Hazaribagh district of Jharkhand as the region's first private University and the first Skills University of the State.",
+      "image": "/images/building3.webp",
+      "imageAlt": "AISECT University, Hazaribagh Jharkhand",
+      "source": "/journey"
+    },
+    {
+      "year": 2017,
+      "devanagari": "२०१७",
+      "title": "Dr. C.V. Raman University, Vaishali, Bihar",
+      "hindiTitle": "डॉ. सी.वी. रमन विश्वविद्यालय, वैशाली",
+      "text": "CVRU Bihar established as the first private university in the region of North Bihar, dedicated to achieving excellence in education and research.",
+      "image": "/images/raman-4.webp",
+      "imageAlt": "Dr. C.V. Raman University, Vaishali, Bihar",
+      "source": "/journey"
+    },
+    {
+      "year": 2018,
+      "devanagari": "२०१८",
+      "title": "Dr. C.V. Raman University, Khandwa & TICAC",
+      "hindiTitle": "डॉ. सी.वी. रमन विश्वविद्यालय, खंडवा",
+      "text": "C.V. Raman University established in Khandwa district, his birthplace. Tagore International Centre for Arts and Culture (TICAC) established at RNTU.",
+      "image": "/images/raman-5.webp",
+      "imageAlt": "Dr. C.V. Raman University, Khandwa, M.P.",
+      "source": "/journey"
+    },
+    {
+      "year": 2019,
+      "devanagari": "२०१९",
+      "title": "Vishwarang Foundation Launched",
+      "hindiTitle": "विश्वरंग फाउंडेशन की शुरुआत",
+      "text": "Vishwarang, Global Cultural Festival, was started in 2019 at Rabindranath Tagore University as a global platform celebrating Indian literature, culture, art, music and cinema.",
+      "image": "/images/history2.webp",
+      "imageAlt": "Vishwarang Foundation, Bhopal, M.P.",
+      "source": "/journey"
+    },
+    {
+      "year": 2021,
+      "devanagari": "२०२१",
+      "title": "Tagore National School of Drama",
+      "hindiTitle": "टैगोर राष्ट्रीय नाट्य विद्यालय",
+      "text": "The Tagore National School of Drama established in July 2021, making it the first such drama academy run by a private university.",
+      "image": "/images/drama-1.webp",
+      "imageAlt": "Tagore National School of Drama, Bhopal, M.P.",
+      "source": "/journey"
+    },
+    {
+      "year": 2023,
+      "devanagari": "२०२३",
+      "title": "SCOPE Global Skills University & NCSDE",
+      "hindiTitle": "स्कोप ग्लोबल स्किल्स यूनिवर्सिटी",
+      "text": "SCOPE Global Skills University established in Bhopal — Central India's First NEP and NSQF Aligned Skills University. National Centre for Skill Development and Entrepreneurship launched.",
+      "image": "/images/scope-6.webp",
+      "imageAlt": "SCOPE Global Skills University, Bhopal, M.P",
+      "source": "/journey"
+    },
+    {
+      "year": 2024,
+      "devanagari": "२०२४",
+      "title": "Vishwarang 1st International Edition in Mauritius",
+      "hindiTitle": "विश्वरंग का पहला अंतर्राष्ट्रीय संस्करण",
+      "text": "The 6th edition of VishwaRang was held in Mauritius in collaboration with the World Hindi Secretariat, with participation from over 300 delegates and representatives from 21 countries across five continents.",
+      "image": "/images/mauritius.webp",
+      "imageAlt": "Vishwarang 1st International Edition in Mauritius",
+      "source": "/journey"
+    }
+  ],
+  "impact": [
+    { "number": 58000, "label": "Centers and Offices", "hindiLabel": "केन्द्र एवं कार्यालय", "source": "Homepage" },
+    { "number": 49500, "label": "Skill Development Centers", "hindiLabel": "कौशल विकास केन्द्र", "source": "Homepage" },
+    { "number": 655, "label": "Districts", "hindiLabel": "जिले", "source": "Homepage" },
+    { "number": 3200, "label": "Blocks", "hindiLabel": "ब्लॉक", "source": "Homepage" },
+    { "number": 11000, "label": "Panchayats", "hindiLabel": "पंचायतें", "source": "Homepage" },
+    { "number": 28, "label": "States", "hindiLabel": "राज्य", "source": "Homepage" },
+    { "number": 6, "label": "Union Territories", "hindiLabel": "केंद्रशासित प्रदेश", "source": "Homepage" },
+    { "number": 3600000, "label": "People Trained", "hindiLabel": "प्रशिक्षित व्यक्ति", "source": "Homepage" },
+    { "number": 5000000, "label": "Lives Impacted", "hindiLabel": "प्रभावित जीवन", "source": "Profile" },
+    { "number": 100000, "label": "Jobs Created", "hindiLabel": "रोजगार सृजित", "source": "Homepage" },
+    { "number": 70, "label": "Literary Works", "hindiLabel": "साहित्यिक कृतियाँ", "source": "Profile" },
+    { "number": 100, "label": "Books & Papers on Science & Technology", "hindiLabel": "विज्ञान एवं प्रौद्योगिकी पर पुस्तकें", "source": "Profile" },
+    { "number": 114, "label": "Vanmali Srijan Kendras", "hindiLabel": "वनमाली सृजन केन्द्र", "source": "Journey" },
+    { "number": 50, "label": "Countries in Vishwarang Network", "hindiLabel": "विश्वरंग नेटवर्क में देश", "source": "Profile" },
+    { "number": 300, "label": "Delegates at Vishwarang Mauritius", "hindiLabel": "विश्वरंग मॉरीशस में प्रतिनिधि", "source": "Journey" },
+    { "number": 21, "label": "Countries at Vishwarang Mauritius", "hindiLabel": "विश्वरंग मॉरीशस में देश", "source": "Journey" }
+  ],
+  "institutions": [
+    {
+      "name": "Rabindranath Tagore University",
+      "hindiName": "रबीन्द्रनाथ टैगोर विश्वविद्यालय",
+      "location": "Bhopal, M.P.",
+      "year": 2010,
+      "description": "1st private university in central India in an underdeveloped district of Raisen. Imbues cultural values of Gurudev Rabindranath Tagore. Focuses on Arts, Humanities and Liberal arts.",
+      "image": "/images/tagore.webp",
+      "url": "https://rntu.ac.in/"
+    },
+    {
+      "name": "AISECT University",
+      "hindiName": "AISECT विश्वविद्यालय",
+      "location": "Hazaribagh, Jharkhand",
+      "year": 2016,
+      "description": "Region's first private University and the first Skills University of the State. A change maker in this LWE district.",
+      "image": "/images/aisect-university.webp",
+      "url": "https://www.aisectuniversityjharkhand.ac.in/"
+    },
+    {
+      "name": "Dr. C.V. Raman University, Bihar",
+      "hindiName": "डॉ. सी.वी. रमन विश्वविद्यालय, बिहार",
+      "location": "Vaishali, Bihar",
+      "year": 2017,
+      "description": "First private university in the region of North Bihar. Known for Engineering and Skill education. Also has a Buddhist study Centre.",
+      "image": "/images/raman2.webp",
+      "url": "https://www.cvrubihar.ac.in/"
+    },
+    {
+      "name": "Dr. C.V. Raman University, M.P.",
+      "hindiName": "डॉ. सी.वी. रमन विश्वविद्यालय, म.प्र.",
+      "location": "Khandwa, M.P.",
+      "year": 2018,
+      "description": "Established in his birthplace Khandwa. Focuses on Agriculture Education and Research, Social Work and Rural Development.",
+      "image": "/images/raman2-1.webp",
+      "url": "https://www.cvrump.ac.in/"
+    },
+    {
+      "name": "SCOPE Global Skill University",
+      "hindiName": "स्कोप ग्लोबल स्किल्स यूनिवर्सिटी",
+      "location": "Bhopal, M.P.",
+      "year": 2023,
+      "description": "Central India's First NEP and NSQF Aligned Skills University. Has over ten centres of Excellence on Campus with leading Industries.",
+      "image": "/images/scope.webp",
+      "url": "https://sgsuniversity.ac.in/"
+    },
+    {
+      "name": "Dr. C.V. Raman University, C.G.",
+      "hindiName": "डॉ. सी.वी. रमन विश्वविद्यालय, छ.ग.",
+      "location": "Bilaspur, C.G.",
+      "year": 2006,
+      "description": "Set up in a scheduled tribal block. Named after Nobel laureate Sir C.V. Raman. Focuses on Science and Technology education, skill development, sports.",
+      "image": "/images/cvru-cg.webp",
+      "url": "https://cvru.ac.in/"
+    }
+  ],
+  "culturalInstitutions": [
+    {
+      "name": "Vanmali Srijan Peeth",
+      "hindiName": "वनमाली सृजन पीठ",
+      "description": "Grassroots level literary and cultural initiative. Over 114 VSKs promote local arts and culture and provide platform to local talents.",
+      "image": "/images/vanmali-srijan-peet.webp"
+    },
+    {
+      "name": "Tagore National School of Drama",
+      "hindiName": "टैगोर राष्ट्रीय नाट्य विद्यालय",
+      "description": "First drama academy run by a private university, established in July 2021. Offers courses in acting, direction, scriptwriting, and stage management.",
+      "image": "/images/drama.webp"
+    },
+    {
+      "name": "Vishwarang Foundation",
+      "hindiName": "विश्वरंग फाउंडेशन",
+      "description": "Global literary and arts festival celebrating India's multilingual and multicultural heritage. 6th edition held in Mauritius in 2024 with participation from 21 countries.",
+      "image": "/images/foundation.webp"
+    }
+  ],
+  "appreciations": [
+    {
+      "quote": "यह जानकर प्रसन्नता हुई है कि विश्व हिन्दी सचिवालय की भारत एवं मॉरीशस इकाइयों एवं रबीन्द्रनाथ टैगोर विश्वविद्यालय, भोपाल द्वारा मॉरीशस में विश्व रंग महोत्सव का आयोजन किया जा रहा है। भाषा, साहित्य, कला एवं संस्कृति को बढ़ावा देते हुए इस वार्षिक कार्यक्रम का आयोजन सराहनीय है।",
+      "attribution": "नरेन्द्र मोदी",
+      "role": "प्रधानमंत्री, भारत",
+      "source": "/words-of-appreciation"
+    },
+    {
+      "quote": "I appreciate the AISECT's efforts in taking IT to people.",
+      "attribution": "Dr. A.P.J. Abdul Kalam",
+      "role": "President, GoI in Indian Innovation Awards, 2006",
+      "source": "/words-of-appreciation"
+    },
+    {
+      "quote": "I would like to congratulate the Chancellor, Rabindranath Tagore University, for promoting Indian Culture in Global Arena in the name of Gurudev Rabindranath Tagore.",
+      "attribution": "Pranab Mukherjee",
+      "role": "former President, GoI in Vishwa Rang 2019",
+      "source": "/words-of-appreciation"
+    },
+    {
+      "quote": "I am thankful to Shri Santosh Choubey and to Vishwa Rang Committee for bringing Vishwa Rang festival to Mauritius.",
+      "attribution": "Pravin Jagnauth",
+      "role": "Prime Minister of Mauritius at Vishwa Rang 2024",
+      "source": "/words-of-appreciation"
+    },
+    {
+      "quote": "Vishwa Rang is the largest cultural festival of Asia, promoted by Rabindranath Tagore University.",
+      "attribution": "Lalji Tandon",
+      "role": "Hon. Governor of M.P.",
+      "source": "/words-of-appreciation"
+    }
+  ],
+  "professionalAwards": [
+    { "year": 2024, "title": "Bharat Gaurav Award", "location": "Paris, France", "image": "/images/awards/professional/bharat-gaurav-2024.png" },
+    { "year": 2024, "title": "Vishwa Hindi Shikhar Samman", "location": "Singapore", "image": "/images/awards/professional/vishwa.png" },
+    { "year": 2024, "title": "Prafulla Chandra Ray Life Time Achievement Award", "location": "for Science Communication", "image": "/images/awards/professional/prafulla.png" },
+    { "year": 2020, "title": "Rashtriya Gunakar Muley Samman", "location": "for Science in Hindi", "image": "/images/awards/professional/gunakar-2020.png" },
+    { "year": 2019, "title": "Madhya Pradesh Ratna Award", "location": "from CM, M.P.", "image": "/images/awards/professional/first-madhya-2019.png" },
+    { "year": 2019, "title": "CSIR-AMPRI Life Time Achievement Award", "location": "for Science Communication", "image": "/images/awards/professional/csir.png" },
+    { "year": 2017, "title": "World Education Summit Award", "location": "Dubai", "image": "/images/awards/professional/world-education.png" },
+    { "year": 2017, "title": "ASSOCHAM India Leadership Award", "location": "for Social Entrepreneurship", "image": "/images/awards/professional/leadership-award.png" },
+    { "year": 2015, "title": "Excellence in Skill Development Award", "location": "By NSDC (GOI)", "image": "/images/awards/professional/nsdc-2015.png" },
+    { "year": 2014, "title": "ASSOCHAM Skill India Award", "location": "for Skill Education", "image": "/images/awards/professional/assocham.png" },
+    { "year": 2013, "title": "SKOCH Renaissance Award", "location": "for Skills Education", "image": "/images/awards/professional/skoch.png" },
+    { "year": 2013, "title": "Life Time Achievement Award", "location": "by MANIT (NIT, MHRD)", "image": "/images/awards/professional/achievement.png" },
+    { "year": 2011, "title": "Senior Ashoka Fellowship Award", "location": "for Social Entrepreneurship", "image": "/images/awards/professional/asoka.png" },
+    { "year": 2011, "title": "National CSI Award for Information Technology", "location": "for IT Education", "image": "/images/awards/professional/rashtriya-csi-2011.png" },
+    { "year": 2010, "title": "Schwab Foundation Award", "location": "for Social Entrepreneurship", "image": "/images/awards/professional/schwab-foundation.png" },
+    { "year": 2009, "title": "NASSCOM Emerge 50 Leader Award", "location": "in IT by NASSCOM", "image": "/images/awards/professional/emerge.png" },
+    { "year": 2009, "title": "TiE-Lumis Entrepreneurial Excellence Award", "location": "for Social Entrepreneurship", "image": "/images/awards/professional/tie-lumis.png" },
+    { "year": 2007, "title": "Asian Forum i4d IT for Development Award", "location": "Kualalumpur, Malaysia", "image": "/images/awards/professional/development-award-2007.png" },
+    { "year": 2006, "title": "NASSCOM I.T. Innovation Award", "location": "by President Dr. A.P.J. Abdul Kalam", "image": "/images/awards/professional/national-2006.webp" },
+    { "year": 2005, "title": "Indian Innovation Award", "location": "by President Dr. A.P.J. Abdul Kalam", "image": "/images/awards/professional/indian-innvoation-award.webp" },
+    { "year": 2005, "title": "Golden Icon Awards", "location": "in National e-Governance Awards", "image": "/images/awards/professional/national-2005.png" },
+    { "year": 1987, "title": "National Award for Science Communication", "location": "", "image": "/images/awards/professional/national-1987.png" },
+    { "year": 1986, "title": "Meghnad Saha Award", "location": "for Science Writing", "image": "/images/awards/professional/awards2009-11.webp" }
+  ],
+  "literatureAwards": [
+    { "year": 2026, "title": "Karmaveer Samman", "image": "/images/awards/literature/karmaveer-samman.png" },
+    { "year": 2026, "title": "National Shabd Nirantar Samman", "image": "/images/awards/literature/national-shabd-nirantar.png" },
+    { "year": 2026, "title": "Ati Vishisht Sahitya Vibhushan Samman", "image": "/images/awards/literature/ati-vishisht.png" },
+    { "year": 2026, "title": "Mahatma Hansraj National Award", "image": "/images/awards/literature/mahatma-hansraj-national-award.png" },
+    { "year": 2025, "title": "International Max Müller Award", "location": "by Saajha Sansar Foundation", "image": "/images/awards/literature/raath-rang-mahotsav.jpg" },
+    { "year": 2025, "title": "Sudirgh Seva Samman", "image": "/images/awards/literature/sudirgh-seva-samman.png" },
+    { "year": 2025, "title": "Ravirang Sahitya Sadhna Samman", "image": "/images/awards/literature/ravirang.png" },
+    { "year": 2024, "title": "Param Vishishth Sahitya Vibhushan Samman", "location": "Mahakavi Kalidas Samman", "image": "/images/awards/literature/param-2024.png" },
+    { "year": 2024, "title": "Draksharatna Award", "location": "for Novel 'Sapno ki duniya me black hole'", "image": "/images/awards/literature/draksha-ratna-2024.png" },
+    { "year": 2024, "title": "Shatabdi Samman", "location": "by Madhya Bharat Hindi Sahitya Samiti, Indore", "image": "/images/awards/literature/centenary-indore.png" },
+    { "year": 2023, "title": "'Vatayan UK' Shikhar Samman", "location": "London", "image": "/images/awards/literature/international-summit-2023.webp" },
+    { "year": 2023, "title": "'Pandit Tilak Raj Sharma Niyas Shikhar Samman", "location": "New York", "image": "/images/awards/literature/pandittilakrajsarma-2023.png" },
+    { "year": 2022, "title": "Chanakya Award", "location": "from Higher Education Minister Shri Mohan Yadav", "image": "/images/awards/literature/9.png" },
+    { "year": 2020, "title": "Rashtriya Dushyant Alankaran", "location": "for Life Time Achievements in literature", "image": "/images/awards/literature/dushyant.png" },
+    { "year": 2020, "title": "Rashtriya Shiv Mangal Singh Suman Samman", "location": "for promotion of Arts and Literature", "image": "/images/awards/literature/shiv-mangal-2020.png" },
+    { "year": 2017, "title": "Shailesh Matiyani Award", "location": "for novel Jaltarang by Governor", "image": "/images/awards/literature/shailesh-matiyani-2017.png" },
+    { "year": 2016, "title": "Valley of Words Award", "location": "for novel Jaltarang", "image": "/images/awards/literature/vellayofworld.png" },
+    { "year": 2016, "title": "Spandan Award", "location": "for Criticism Kala Ki Sangat", "image": "/images/awards/literature/no-img.png" },
+    { "year": 2010, "title": "Abhinav Shabd Shilpi Samman", "location": "for Literature", "image": "/images/awards/literature/abhinav-2010.png" },
+    { "year": 2007, "title": "Rameshwar Guru Puraskar", "location": "as Editor Electroniki", "image": "/images/awards/literature/e-india.png" },
+    { "year": 2005, "title": "Dr. Shankar Dayal Sharma Srijan Samman", "location": "for Science writing", "image": "/images/awards/literature/shankar-dayal.png" },
+    { "year": 1995, "title": "Hazarilal Raghuvanshi Award", "location": "for Moscow Diary", "image": "/images/awards/literature/hazarilal-1995.png" },
+    { "year": 1990, "title": "Dushyant Kumar Award", "location": "for Poetry, MP Sahitya Academy", "image": "/images/awards/literature/2.png" }
+  ],
+  "poem": {
+    "title": "आना जब मेरे अच्छे दिन हों",
+    "lines": [
+      "आना जब मेरे अच्छे दिन हों.",
+      "जब दिल में निष्कपट ज्योति की तरह",
+      "जलती हो तुम्हारी क्षीण याद",
+      "और नीली लौ की तरह",
+      "कभी कभी चुभती हो इच्छा.",
+      "",
+      "जब मन के अछूते कोने में",
+      "सहेजे तुम्हारे चित्र पर",
+      "चढ़ी न हो धूल की परत",
+      "आना जैसे बारिश में अचानक",
+      "आ जाए कोई अच्छी सी पुस्तक हाथ",
+      "या कि गर्मी में छत पर सोते हुए",
+      "दिखे कोई अच्छा सा सपना।"
+    ],
+    "collection": "घर-बाहर संग्रह से"
+  },
+  "photoSelection": [
+    {
+      "src": "/images/about-img1.webp",
+      "alt": "Santosh Choubey portrait",
+      "reason": "Main portrait from profile page, well-lit dignified portrait",
+      "use": "Hero section",
+      "source": "/profile"
+    },
+    {
+      "src": "/images/history31.webp",
+      "alt": "Mr. J.P. Chaubey and Mrs. Sharda Chaubey",
+      "reason": "Family photo from journey page, shows parents",
+      "use": "Timeline 1955",
+      "source": "/journey"
+    },
+    {
+      "src": "/images/history22.webp",
+      "alt": "AISECT founding",
+      "reason": "AISECT founding photo from journey",
+      "use": "Timeline 1985",
+      "source": "/journey"
+    },
+    {
+      "src": "/images/history14.webp",
+      "alt": "Indian Innovation Award from Dr. Kalam",
+      "reason": "Award ceremony with Dr. Kalam, significant moment",
+      "use": "Timeline 2005",
+      "source": "/journey"
+    },
+    {
+      "src": "/images/rntu-inogration.webp",
+      "alt": "Rabindranath Tagore University inauguration",
+      "reason": "University inauguration, key milestone",
+      "use": "Timeline 2010",
+      "source": "/journey"
+    },
+    {
+      "src": "/images/mauritius.webp",
+      "alt": "Vishwarang 1st International Edition in Mauritius",
+      "reason": "Recent milestone, international reach",
+      "use": "Timeline 2024",
+      "source": "/journey"
+    },
+    {
+      "src": "/images/tagore.webp",
+      "alt": "Rabindranath Tagore University",
+      "reason": "University campus photo",
+      "use": "Institutions section",
+      "source": "/educational-institutions"
+    },
+    {
+      "src": "/images/vishwarang.webp",
+      "alt": "Vishwarang festival",
+      "reason": "Vishwarang cultural festival photo",
+      "use": "Cultural institutions / Vishwarang section",
+      "source": "/vishwarang-foundation"
+    },
+    {
+      "src": "/images/photogellery/photogellery1/photogellery1.webp",
+      "alt": "Gallery photo 1",
+      "reason": "Gallery image from photo gallery",
+      "use": "Gallery section",
+      "source": "/photogallery"
+    },
+    {
+      "src": "/images/photogellery/photogellery1/photogellery2.webp",
+      "alt": "Gallery photo 2",
+      "reason": "Gallery image from photo gallery",
+      "use": "Gallery section",
+      "source": "/photogallery"
+    },
+    {
+      "src": "/images/photogellery/photogellery1/photogellery3.webp",
+      "alt": "Gallery photo 3",
+      "reason": "Gallery image from photo gallery",
+      "use": "Gallery section",
+      "source": "/photogallery"
+    },
+    {
+      "src": "/images/photogellery/photogellery1/photogellery4.webp",
+      "alt": "Gallery photo 4",
+      "reason": "Gallery image from photo gallery",
+      "use": "Gallery section",
+      "source": "/photogallery"
+    },
+    {
+      "src": "/images/awards/professional/national-2006.webp",
+      "alt": "NASSCOM I.T. Innovation Award from Dr. Kalam",
+      "reason": "Major professional award ceremony",
+      "use": "Awards section",
+      "source": "/professional-awards"
+    },
+    {
+      "src": "/images/network-map.webp",
+      "alt": "AISECT network map of India",
+      "reason": "Network reach visualization",
+      "use": "Impact section background",
+      "source": "/homepage"
+    }
+  ]
+}

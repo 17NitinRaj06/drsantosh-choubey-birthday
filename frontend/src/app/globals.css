@@ -1,0 +1,316 @@
+@import "tailwindcss";
+
+/* ─── PALETTE: One paper family, one ink, one accent ─── */
+:root {
+  --paper-1: #F6F0E4;
+  --paper-2: #EFE6D4;
+  --paper-3: #E8DCC5;
+  --paper-4: #E3E2D6;
+  --ink: #1F1A17;
+  --ink-soft: rgba(31, 26, 23, 0.62);
+  --rule: rgba(31, 26, 23, 0.18);
+  --madder: #9E3B25;
+  --madder-hover: #822F1D;
+  --night: #221915;
+  --ivory: #F3EBDD;
+  --lamp: #C99A3E;
+
+  /* Legacy aliases — gradually remove */
+  --paper: var(--paper-1);
+  --stone: var(--paper-2);
+  --fog: var(--paper-3);
+  --sage: var(--paper-4);
+  --deep-slate: var(--night);
+  --vermilion: var(--madder);
+  --bg: var(--paper-1);
+  --fg: var(--ink);
+  --accent: var(--madder);
+  --kagaz: var(--paper-1);
+  --syahi: var(--ink);
+  --kesar: var(--madder);
+  --ret: var(--paper-2);
+  --dhundh: var(--ink-soft);
+}
+
+@theme inline {
+  --color-paper-1: var(--paper-1);
+  --color-paper-2: var(--paper-2);
+  --color-paper-3: var(--paper-3);
+  --color-paper-4: var(--paper-4);
+  --color-paper: var(--paper-1);
+  --color-stone: var(--paper-2);
+  --color-fog: var(--paper-3);
+  --color-sage: var(--paper-4);
+  --color-ink: var(--ink);
+  --color-ink-soft: var(--ink-soft);
+  --color-rule: var(--rule);
+  --color-madder: var(--madder);
+  --color-madder-hover: var(--madder-hover);
+  --color-deep-slate: var(--night);
+  --color-night: var(--night);
+  --color-ivory: var(--ivory);
+  --color-lamp: var(--lamp);
+  --color-vermilion: var(--madder);
+
+  --color-kagaz: var(--paper-1);
+  --color-syahi: var(--ink);
+  --color-kesar: var(--madder);
+  --color-ret: var(--paper-2);
+  --color-dhundh: var(--ink-soft);
+
+  --font-display: "EB Garamond", "Noto Serif Devanagari", serif;
+  --font-body: "Inter", "Noto Sans Devanagari", sans-serif;
+  --font-hindi-display: "Noto Serif Devanagari", serif;
+  --font-hindi-body: "Noto Sans Devanagari", sans-serif;
+}
+
+/* ─── RESET ─── */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background: var(--paper-1);
+  color: var(--ink);
+  font-family: var(--font-body);
+  line-height: 1.6;
+  margin: 0;
+}
+
+::selection {
+  background: var(--paper-2);
+  color: var(--ink);
+}
+
+/* ─── SCROLLBAR ─── */
+::-webkit-scrollbar { width: 5px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--paper-2); border-radius: 3px; }
+* { scrollbar-width: thin; scrollbar-color: var(--paper-2) transparent; }
+
+/* ─── CHAT COLUMN: HIDDEN SCROLLBAR ─── */
+.chat-scrollbar-hidden {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+.chat-scrollbar-hidden::-webkit-scrollbar { display: none; width: 0; height: 0; }
+.chat-scrollbar-hidden::-webkit-scrollbar-track { display: none; }
+.chat-scrollbar-hidden::-webkit-scrollbar-thumb { display: none; }
+
+/* ─── CHAPTER BACKGROUNDS ─── */
+.chapter-paper { background-color: var(--paper-1); color: var(--ink); }
+.chapter-stone { background-color: var(--paper-2); color: var(--ink); }
+.chapter-fog { background-color: var(--paper-3); color: var(--ink); }
+.chapter-sage { background-color: var(--paper-4); color: var(--ink); }
+.chapter-night { background-color: var(--night); color: var(--ivory); }
+/* Keep old name for backward compat */
+.chapter-ink { background-color: var(--ink); color: var(--paper-1); }
+.chapter-deep-slate { background-color: var(--night); color: var(--ivory); }
+
+/* ─── WISH LIST TEXT (dark chapter) ─── */
+.chapter-deep-slate {
+  --wish-msg: #F6F3EC;
+  --wish-name: #E2DDD0;
+  --wish-meta: #BEB5A5;
+  --wish-rule: rgba(246, 243, 236, 0.25);
+}
+.chapter-paper, .chapter-stone, .chapter-fog, .chapter-sage {
+  --wish-msg: var(--ink);
+  --wish-name: #2A2622;
+  --wish-meta: #4A4440;
+  --wish-rule: var(--rule);
+}
+
+/* ─── CHAT TEXT (light vs saturated chapters) ─── */
+.chat-light {
+  --chat-text: #0B0A09;
+  --chat-halo: var(--paper-1);
+}
+.chat-saturated {
+  --chat-text: #FFFFFF;
+  --chat-halo: var(--night);
+}
+
+/* ─── GRAIN TEXTURE OVERLAY ─── */
+.grain::after {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  pointer-events: none;
+  opacity: 0.035;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  background-repeat: repeat;
+  background-size: 200px 200px;
+}
+
+/* ─── SCROLL REVEAL ─── */
+.scroll-reveal {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.6s cubic-bezier(0.16, 1, 0.3, 1),
+              transform 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.scroll-reveal.revealed {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* ─── KEYFRAMES ─── */
+@keyframes fade-in {
+  from { opacity: 0; transform: translateY(12px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes slide-in-left {
+  from { opacity: 0; transform: translateX(-16px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+
+@keyframes pulse-dot {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.4; }
+}
+
+@keyframes glide-left {
+  from { transform: translateX(100vw); }
+  to { transform: translateX(calc(-100% - 400px)); }
+}
+
+@keyframes diya-draw {
+  0% { stroke-dashoffset: 400; opacity: 0; }
+  10% { opacity: 1; }
+  100% { stroke-dashoffset: 0; opacity: 1; }
+}
+
+@keyframes message-enter {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes message-fade {
+  from { opacity: 1; }
+  to { opacity: 0; }
+}
+
+/* ─── UTILITY CLASSES ─── */
+.font-display {
+  font-family: var(--font-display);
+}
+
+.font-hindi {
+  font-family: var(--font-hindi-display);
+}
+
+.text-caption {
+  font-size: 0.7rem;
+  line-height: 1.2;
+  letter-spacing: 0.05em;
+}
+
+.thin-rule {
+  border: none;
+  height: 1px;
+  background: currentColor;
+  opacity: 0.12;
+  margin: 0;
+}
+
+/* ─── PHOTO TREATMENTS ─── */
+.photo-bw {
+  filter: grayscale(100%) contrast(1.1) brightness(0.95);
+  transition: filter 0.4s ease;
+}
+
+.photo-bw:hover {
+  filter: grayscale(100%) contrast(1.15) brightness(1);
+}
+
+/* Single-ink print treatment: warm paper highlights, deep umber shadows */
+.photo-print {
+  isolation: isolate;
+  background: #F1E6D2;
+}
+.photo-print img {
+  mix-blend-mode: multiply;
+}
+.photo-print::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: #3A2318;
+  mix-blend-mode: lighten;
+  opacity: 0.9;
+  pointer-events: none;
+}
+
+.photo-hairline {
+  border: 1px solid rgba(31, 26, 23, 0.08);
+}
+
+.photo-hairline-light {
+  border: 1px solid rgba(243, 235, 221, 0.12);
+}
+
+/* ─── CONTENTS PILL ─── */
+.contents-pill {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  z-index: 40;
+  background: var(--ink);
+  color: var(--paper-1);
+  border-radius: 9999px;
+  padding: 0.5rem 1rem;
+  font-family: var(--font-body);
+  font-size: 0.7rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.15);
+}
+
+.contents-pill:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+}
+
+/* ─── CHAPTER INDEX OVERLAY ─── */
+.chapter-index-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 60;
+  background: rgba(31, 26, 23, 0.92);
+  backdrop-filter: blur(8px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  animation: fade-in 0.3s ease;
+}
+
+/* ─── REDUCED MOTION ─── */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+
+  .scroll-reveal {
+    opacity: 1;
+    transform: none;
+  }
+}

@@ -1,0 +1,32 @@
+services:
+  # Static frontend site
+  - type: web
+    name: santosh-choubey-birthday
+    runtime: static
+    buildCommand: cd frontend && npm install && npm run build
+    staticPublishPath: frontend/out
+    envVars:
+      - key: NEXT_PUBLIC_API_URL
+        sync: false
+      - key: NEXT_PUBLIC_WS_URL
+        sync: false
+      - key: NEXT_PUBLIC_URL
+        sync: false
+
+  # Realtime WebSocket service
+  - type: web
+    name: santosh-choubey-realtime
+    runtime: node
+    buildCommand: cd realtime-service && npm install && npm run build
+    startCommand: cd realtime-service && node dist/index.js
+    envVars:
+      - key: MONGODB_URI
+        sync: false
+      - key: MONGODB_DB
+        value: wishes
+      - key: ADMIN_PASSWORD
+        sync: false
+      - key: ALLOWED_ORIGIN
+        sync: false
+      - key: PORT
+        value: 3001

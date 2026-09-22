@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "mongodb": "^7.6.0",
+    "playwright": "^1.63.0",
+    "ws": "^8.21.3"
+  },
+  "name": "santosh-choubey-birthday-site",
+  "version": "1.0.0",
+  "description": "A ceremonial, editorial-print-design-inspired birthday tribute website for Santosh Choubey, Founder and Chairman of AISECT Group and Chancellor of the university network he built.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0"
+  }
+}
