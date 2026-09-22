@@ -98,47 +98,50 @@ export default function RealtimeProvider({ children }: { children: React.ReactNo
           } catch {}
         }
 
-        // Fetch initial messages via REST if we haven't received any yet
-        if (!hasReceivedRef.current) {
-          fetch(`${API_URL}/api/messages`)
-            .then((r) => (r.ok ? r.json() : []))
-            .then((data: unknown) => {
-              if (!mountedRef.current) return;
-              if (Array.isArray(data) && data.length > 0) {
-                // Server returns newest-first; reverse to ascending (oldest first)
-                const reversed = [...data].reverse();
-                const mapped: RealtimeMessage[] = reversed
-                  .filter((m: any) => !m.hidden)
-                  .map((m: any) => ({
-                    id: String(m.seq || m.id || m._id),
-                    clientId: m.clientId || undefined,
-                    name: m.name || "",
-                    department: m.department || undefined,
-                    message: m.message || "",
-                    timestamp: m.createdAt ? new Date(m.createdAt).getTime() : (m.created_at ? new Date(m.created_at).getTime() : Date.now()),
-                  }));
-                setMessages(mapped);
-                hasReceivedRef.current = true;
-                setStatus("ready");
-              } else if (Array.isArray(data) && data.length === 0) {
-                hasReceivedRef.current = true;
-                setStatus("empty");
-              }
-            })
-            .catch(() => {
-              // REST unavailable - rely on WS messages
-            });
+        // Always fetch via REST on connect (catches messages missed during disconnection)
+        fetch(`${API_URL}/api/messages`)
+          .then((r) => (r.ok ? r.json() : []))
+          .then((data: unknown) => {
+            if (!mountedRef.current) return;
+            if (Array.isArray(data) && data.length > 0) {
+              // Server returns newest-first; reverse to ascending (oldest first)
+              const reversed = [...data].reverse();
+              const mapped: RealtimeMessage[] = reversed
+                .filter((m: any) => !m.hidden)
+                .map((m: any) => ({
+                  id: String(m.seq || m.id || m._id),
+                  clientId: m.clientId || undefined,
+                  name: m.name || "",
+                  department: m.department || undefined,
+                  message: m.message || "",
+                  timestamp: m.createdAt ? new Date(m.createdAt).getTime() : (m.created_at ? new Date(m.created_at).getTime() : Date.now()),
+                }));
+              setMessages((prev) => {
+                // Merge: keep any optimistic messages not yet in REST response, replace the rest
+                const restIds = new Set(mapped.map((m) => m.id));
+                const optimisticOnly = prev.filter((m) => m.clientId && !restIds.has(m.id));
+                return [...mapped, ...optimisticOnly].slice(-MAX_MESSAGES);
+              });
+              hasReceivedRef.current = true;
+              setStatus("ready");
+            } else if (Array.isArray(data) && data.length === 0) {
+              hasReceivedRef.current = true;
+              setStatus("empty");
+            }
+          })
+          .catch(() => {
+            // REST unavailable - rely on WS messages
+          });
 
-          // Fetch live state via REST
-          fetch(`${API_URL}/api/live`)
-            .then((r) => (r.ok ? r.json() : null))
-            .then((data: any) => {
-              if (data && typeof data.enabled === "boolean") {
-                setLiveEnabled(data.enabled);
-              }
-            })
-            .catch(() => {});
-        }
+        // Fetch live state via REST
+        fetch(`${API_URL}/api/live`)
+          .then((r) => (r.ok ? r.json() : null))
+          .then((data: any) => {
+            if (data && typeof data.enabled === "boolean") {
+              setLiveEnabled(data.enabled);
+            }
+          })
+          .catch(() => {});
       };
 
       ws.onmessage = (event) => {
@@ -171,6 +174,25 @@ export default function RealtimeProvider({ children }: { children: React.ReactNo
             // Server assigned lane
             if (msg.live !== undefined) {
               setLiveEnabled(msg.live);
+            }
+            // Process history from server's memory buffer (catches messages missed during disconnect)
+            if (Array.isArray(msg.history) && msg.history.length > 0) {
+              const initMapped: RealtimeMessage[] = msg.history.map((m: any) => ({
+                id: String(m.seq || m.id || m._id),
+                clientId: m.clientId || undefined,
+                name: m.name || "",
+                department: m.department || undefined,
+                message: m.message || "",
+                timestamp: m.createdAt ? new Date(m.createdAt).getTime() : Date.now(),
+              }));
+              setMessages((prev) => {
+                const existingIds = new Set(prev.map((m) => m.id));
+                const newMsgs = initMapped.filter((m) => !existingIds.has(m.id));
+                if (newMsgs.length === 0) return prev;
+                return [...prev, ...newMsgs].slice(-MAX_MESSAGES);
+              });
+              hasReceivedRef.current = true;
+              setStatus("ready");
             }
           } else if (msg.type === "live_state") {
             setLiveEnabled(msg.enabled);
