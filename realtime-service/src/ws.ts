@@ -1,7 +1,7 @@
-import { WebSocketServer, WebSocket } from 'ws';
-import type { Server } from 'http';
+import { WebSocket } from 'ws';
 import crypto from 'crypto';
 import { ObjectId } from 'mongodb';
+import type { FastifyInstance } from 'fastify';
 import {
   nextSeq, addToBuffer, getBuffer, removeFromBuffer,
   updateBufferStatus, enqueueWrite, hasClientId, isLiveEnabled, type WishDocument,
@@ -30,27 +30,6 @@ export function getClients(): number {
 }
 
 // ─── Broadcast ───
-
-let broadcastTimer: ReturnType<typeof setInterval> | null = null;
-let pendingBatch: any[] = [];
-
-export function enqueueMessage(msg: any): void {
-  pendingBatch.push(msg);
-}
-
-export function startBroadcastLoop(intervalMs = 200): void {
-  if (broadcastTimer) return;
-  broadcastTimer = setInterval(() => {
-    if (!pendingBatch.length) return;
-    const batch = pendingBatch.splice(0, pendingBatch.length);
-    const payload = JSON.stringify({ type: 'messages', messages: batch });
-    for (const ws of clients) {
-      if (ws.readyState === WebSocket.OPEN) {
-        try { ws.send(payload); } catch {}
-      }
-    }
-  }, intervalMs);
-}
 
 export function broadcastMessage(msg: any): void {
   const payload = JSON.stringify({ type: 'messages', messages: [msg] });
@@ -179,20 +158,20 @@ export function processWsMessage(data: string, ip: string): any | null {
   });
 }
 
-// ─── Attach WS server ───
+// ─── Register WebSocket route on Fastify ───
 
-export function attachWs(server: Server): WebSocketServer {
-  const wss = new WebSocketServer({
-    server,
-    perMessageDeflate: false,
-    path: '/ws',
-  });
+let keepalive: ReturnType<typeof setInterval> | null = null;
 
-  wss.on('connection', (ws, req) => {
+export async function registerWsRoute(app: FastifyInstance): Promise<void> {
+  await app.register(import('@fastify/websocket'));
+
+  app.get('/ws', { websocket: true }, (socket: WebSocket, req) => {
     const lane = getLane();
-    (ws as any)._lane = lane;
-    if (lane >= 0) lanes[lane] = ws;
-    clients.add(ws);
+    (socket as any)._lane = lane;
+    if (lane >= 0) lanes[lane] = socket;
+    clients.add(socket);
+
+    console.log(`WebSocket client connected, total clients: ${clients.size}`);
 
     // Send init with lane and history from memory buffer
     const history = getBuffer().map(d => ({
@@ -204,7 +183,7 @@ export function attachWs(server: Server): WebSocketServer {
       lane: 0,
     }));
 
-    ws.send(JSON.stringify({
+    socket.send(JSON.stringify({
       type: 'init',
       lane,
       lanes: lanes.map((l, i) => l ? i : null).filter(i => i !== null),
@@ -212,11 +191,11 @@ export function attachWs(server: Server): WebSocketServer {
       live: isLiveEnabled(),
     }));
 
-    ws.on('pong', () => { (ws as any)._alive = true; });
-    ws.on('message', (data) => {
+    socket.on('pong', () => { (socket as any)._alive = true; });
+    socket.on('message', (data) => {
       try {
         const msg = JSON.parse(data.toString());
-        if (msg.type === 'pong') (ws as any)._alive = true;
+        if (msg.type === 'pong') (socket as any)._alive = true;
         if (msg.type === 'message') {
           if (!isLiveEnabled()) return;
           const ip = (req.headers['x-forwarded-for'] as string)?.split(',')[0]?.trim() || req.socket.remoteAddress || 'unknown';
@@ -224,26 +203,26 @@ export function attachWs(server: Server): WebSocketServer {
         }
       } catch {}
     });
-    ws.on('close', () => {
-      clients.delete(ws);
-      releaseLane((ws as any)._lane);
+    socket.on('close', () => {
+      clients.delete(socket);
+      releaseLane((socket as any)._lane);
+      console.log(`WebSocket client disconnected, total clients: ${clients.size}`);
     });
-    ws.on('error', () => {
-      clients.delete(ws);
-      releaseLane((ws as any)._lane);
+    socket.on('error', () => {
+      clients.delete(socket);
+      releaseLane((socket as any)._lane);
     });
   });
 
-  // Keepalive
-  const keepalive = setInterval(() => {
-    wss.clients.forEach((ws) => {
+  // Keepalive: ping all clients every 30s, terminate dead ones
+  keepalive = setInterval(() => {
+    clients.forEach((ws) => {
+      if (ws.readyState !== WebSocket.OPEN) return;
       if ((ws as any)._alive === false) return ws.terminate();
       (ws as any)._alive = false;
       ws.ping();
     });
   }, 30000);
 
-  wss.on('close', () => clearInterval(keepalive));
-
-  return wss;
+  console.log('WebSocket route registered at /ws');
 }

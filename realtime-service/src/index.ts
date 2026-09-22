@@ -1,7 +1,7 @@
 import 'dotenv/config';
 import Fastify from 'fastify';
 import cors from '@fastify/cors';
-import { attachWs, getClients, saveAndBroadcastWish } from './ws.js';
+import { registerWsRoute, getClients, saveAndBroadcastWish } from './ws.js';
 import {
   getHistory, healthcheck, close as closeDb, startFlushLoop,
   isLiveEnabled,
@@ -47,7 +47,7 @@ await app.register(cors, {
   credentials: true,
 });
 
-const wss = attachWs(app.server);
+await registerWsRoute(app);
 
 // ─── Routes ───
 
@@ -118,7 +118,6 @@ console.log(`Allowed origins: ${ALLOWED_ORIGIN_RAW}`);
 
 const shutdown = async () => {
   console.log('Shutting down...');
-  wss.close();
   await closeDb();
   await app.close();
   process.exit(0);
